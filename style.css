@@ -1,9 +1,67 @@
+a {
+  color: rgb(240, 240, 240);
+  font-weight: bold;
+  text-decoration: none;
+}
+
 body {
-  color: white;
-  background-color: black;
+  color: rgb(240, 240, 240);
+  background-color: rgb(20, 20, 20);
   font-family: Verdana, Helvetica;
+  margin: 90px 30px 50px;
 }
 
 h1 {
-  font-size: 50px;
+  font-size: 60px;
+}
+
+h2 {
+  font-size: 40px;
+}
+
+p {
+  font-size: 21px;
+}
+
+p:hover {
+  background: linear-gradient(to right, #FF0000, #00FF00, #00FFFF);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+  animation: rainbow_animation 1.5s infinite;
+  background-size: 400% 100%;
+  transition: 0.3s;
+}
+
+.box {
+  text-align: center;
+  margin: 0% 2.5% 0%;
+  border-style: solid;
+  border-color: white;
+  width: 25%;
+  height: 200px;
+}
+
+.box_column {
+  display: flex;
+}
+
+.box_content {
+  background: linear-gradient(to right, #FFFF00, #00FF00, #00FFFF);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+  animation: rainbow_animation 3.5s infinite;
+  background-size: 400% 100%;
+  position: relative;
+  top: 50%;
+}
+
+@keyframes rainbow_animation {
+    0%,100% {
+        background-position: 0 0;
+    }
+    50% {
+        background-position: 100% 0;
+    }
 }
