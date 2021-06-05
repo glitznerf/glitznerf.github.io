@@ -6,9 +6,15 @@ a {
 
 body {
   color: white;
-  background-color: rgb(20, 20, 20);
+  background-color: rgb(22, 22, 22);
   font-family: Verdana, Helvetica;
   margin: 90px 30px 50px;
+}
+
+.logo {
+  margin-right: 2%;
+  width: 3%;
+  float: right;
 }
 
 h1 {
@@ -21,7 +27,7 @@ h2 {
 
 p {
   font-size: 21px;
-  text-indent: 1%;
+  text-indent: 0.5%;
 }
 
 p:hover {
@@ -30,20 +36,37 @@ p:hover {
   background-clip: text;
   color: transparent;
   animation: rainbow_animation 1.5s infinite;
-  background-size: 400% 100%; 
+  background-size: 400% 100%;
   transition: 0.3s;
 }
 
-.box {
-  /*top: 50%; */
-  display: table-cell;
-  vertical-align: middle;
+@media only screen and (max-width: 800px) {
+  .box {
+    /*top: 50%; */
+    display: flex;
+    vertical-align: middle;
 
-  text-align: center;
-  padding: 0% 3% 0%;
-  border-style: solid;
-  border-color: white;
-  width: 25%;
+    text-align: center;
+    padding: 3% 3% 3%;
+    margin: 2% 2% 2%;
+    border-style: solid;
+    border-color: white;
+    width: 85%;
+  }
+}
+
+@media only screen and (min-width: 800px) {
+  .box {
+    /*top: 50%; */
+    display: table-cell;
+    vertical-align: middle;
+
+    text-align: center;
+    padding: 0% 2% 0%;
+    border-style: solid;
+    border-color: white;
+    width: 25%;
+  }
 }
 
 .box_row {
