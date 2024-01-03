@@ -1,7 +1,8 @@
 theme: minima
 title: F Glitzner
-author: F Glitzner
-email: f.glitzner.1@research.gla.ac.uk
+author: 
+  name: F Glitzner
+  email: f.glitzner.1@research.gla.ac.uk
 description: >
   Personal Homepage of F Glitzner
 show_excerpts: true
