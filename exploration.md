@@ -4,18 +4,18 @@ title: Exploring Scotland
 permalink: /scotland/
 --- 
 
-The main reason I fell in love with Scotland and wanted to move here was a roadtrip through Scotland passing Oban, Skye, and Ullapool. It had some magical moments - helping a farmer find his lost lamb, hearing a local's story about giving birth on a lonely island, watching snow falling into the sea on easter, or being shown around a forgotten island that the local community bought back and is currently rebuilding.
+The main spark for my fascination with Scotland happened during a roadtrip through Scotland passing Oban, Skye, and Ullapool. It had some magical moments - helping a farmer find his lost lamb, hearing a local's story about giving birth on a lonely island, watching snow falling into the sea on easter, or being shown around a forgotten island that the local community bought back and is currently rebuilding.
 
 ## Islands
-The islands are my main fascination. The wilderness, purity, and, if inhabited, often simple and naturalist living and community. I would always happily pack a bag and set off to spend some time on a Scottish island, explore its people, nature, and views.
+Islands are fascinating. The wilderness, purity, and, if inhabited, often simple and naturalist living and community. I would always happily pack a bag and set off to spend some time on a Scottish island, explore its people, nature, and views.
 
 Below are some places I would like to visit next.
 
 ### _Wishlist_
-- Mingulay - fulfill my dream of seeing happy puffins
-- Islay - tour the various distilleries and find the most peated whisky I can reasonably afford
-- Eigg - see how the community lives sustainably and partially off-grid
-- Lewis & Harris - explore the last stretch of the outer hebrides
+- Mingulay - fulfill my dream of seeing happy puffins,
+- Islay - tour the various distilleries and find the most peated whisky I can reasonably afford,
+- Eigg - see how the community lives sustainably and partially off-grid,
+- Lewis & Harris - explore the last stretch of the outer hebrides.
 
 Following, some past trips.
 
@@ -70,8 +70,8 @@ Todo...
 With my excitement for the island life, I have not bagged many Munros yet. Although I try to climb any hills that promise good views, my Munro scratch-off poster makes me look lazy, so here some next wishes and bagged Munros!
 
 ### _Wishlist_
-- Ben Lomond - close to Glasgow and I was told it is a beatiful hike 
-- Beinn na Lap - remote peak but accessible with the West Highland Line train between Glasgow and Fort William
+- Ben Lomond - close to Glasgow and I was told it is a beatiful hike,
+- Beinn na Lap - remote peak but accessible with the West Highland Line train between Glasgow and Fort William.
 
 
 ### Beinn Narnain
