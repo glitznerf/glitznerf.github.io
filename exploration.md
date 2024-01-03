@@ -4,7 +4,6 @@ title: Exploring Scotland
 permalink: /scotland/
 --- 
 
-# Exploring Scotland
 The main reason I fell in love with Scotland and wanted to move here was a roadtrip through Scotland passing Oban, Skye, and Ullapool. It had some magical moments - helping a farmer find his lost lamb, hearing a local's story about giving birth on a lonely island, watching snow falling into the sea on easter, or being shown around a forgotten island that the local community bought back and is currently rebuilding.
 
 ## Islands
@@ -30,33 +29,45 @@ Bute lies between Glasgow and Kintyre, Bute lies in the Firth of Clyde, not far 
 
 
 ### Eriskay
+Todo...
 
 ### Vatersay
+Todo...
 
 ### Barra
+Todo...
 
 ### Staffa
+Todo...
 
 ### Iona
+Todo...
 
 ### Mull
+Todo...
 
 ### Kerrera
+Todo...
 
 ### Cumbrae
+Todo...
 
 ### Arran
+Todo...
 
 ### Martin
+Todo...
 
 ### Skye
+Todo...
 
 ### Kintyre (Peninsula)
+Todo...
 
 
 ## Munros
 
-With my excitement for the island life, I have not bagged many Munros yet. Although I try to climb any hills that promise good views, many of them are too small to be acknowledged here (nothing against Corbetts, Grahams, and Donalds). However, my Munro scratch-off poster makes me look lazy, so in hopes of motivating me to pursue more, here some next wishes and bagged Munros!
+With my excitement for the island life, I have not bagged many Munros yet. Although I try to climb any hills that promise good views, my Munro scratch-off poster makes me look lazy, so here some next wishes and bagged Munros!
 
 ### _Wishlist_
 - Ben Lomond - close to Glasgow and I was told it is a beatiful hike 
@@ -64,10 +75,10 @@ With my excitement for the island life, I have not bagged many Munros yet. Altho
 
 
 ### Beinn Narnain
-Beinn Narnain lies right before Beinn Ime, so the ascent is the same if coming from the Long Long direction. The peak is nice and the views were better than the previous time, but even with gloves the top was freezing with a layer of snow and ice-cold winds. (March '21) Made a second ascent two years later but decided to enjoy the views from just above the tree line rather than going all the way up. (June '23)
+Beinn Narnain lies right before Beinn Ime, so the ascent is the same when coming from the Loch Long direction. The peak is nice and the views were better than the previous time, but even with gloves, the top was freezing with a layer of snow and ice-cold winds. (March '21) Made a second ascent two years later but decided to enjoy the views from just above the tree line rather than going all the way up. (June '23)
 
 ### Beinn Ime
-Lying on the side of Long Long and just a short hike away from Loch Lomond, Beinn Ime is a tedius hike through the forest for the first half, which is rewarded with beautiful views once above the tree line during the second half. Also goes past a river with minor waterfalls, and there is a choice between three peaks. Some crazy local hill runners passed me on their way down at 8am. If it would not have started snowing once approaching the top, and heavy rain all the way down, the 20kg backpack with camping gear and supplies might have actually been worth it. (September '20)
+Laying on the side of Loch Long and just a short hike away from Loch Lomond, Beinn Ime is a slightly tedius hike through the forest for the first half, which is rewarded with beautiful views once above the tree line during the second half. Also goes past a river with minor waterfalls, and there is a choice between three peaks. Some crazy local hill runners passed me on their way down at 8am. If it would not have started snowing once approaching the top, and heavy rain all the way down, the 20kg backpack with camping gear and supplies might have actually been worth it. (September '20)
 
 
 ## Other
