@@ -1,0 +1,16 @@
+theme: minima
+title: F Glitzner
+author:
+  name: F Glitzner
+  email: f.glitzner.1@research.gla.ac.uk
+description: >
+  Personal Homepage of F Glitzner
+show_excerpts: true
+minima:
+  skin: dark
+  plugins:
+    - jekyll-feed
+  social_links:
+    - { platform: github,         user_url: "https://github.com/glitznerf" }
+    - { platform: linkedin,       user_url: "https://www.linkedin.com/in/frederik-g" }
+    #- { platform: google_scholar, user_url: "https://scholar.google.com/citations?user=" }
