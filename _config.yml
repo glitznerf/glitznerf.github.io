@@ -2,9 +2,9 @@ theme: minima
 title: F Glitzner
 author: 
   name: F Glitzner
-  email: f.glitzner.1@research.gla.ac.uk
+  email: f.LASTNAME.1@research.gla.ac.uk
 description: >
-  Personal Homepage of F Glitzner
+  Personal Homepage
 show_excerpts: true
 minima:
   skin: dark
