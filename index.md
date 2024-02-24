@@ -1,6 +1,5 @@
 --- 
 layout: page
-title: Biography
 --- 
 
 I am a PhD Researcher and Minerva Scholar at the University of Glasgow, holding a BSc (Hons) in Computing Science and Mathematics. My academic supervisors are [Professor David Manlove](https://www.dcs.gla.ac.uk/~davidm/) and [Dr Sofiat Olaosebikan](https://www.dcs.gla.ac.uk/~sofiat/).
