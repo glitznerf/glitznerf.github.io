@@ -11,7 +11,7 @@ I mainly work on problems in the areas of algorithmics and complexity, computati
 
 My current research is at the intersection of computing, mathematics, and economics, where I study matching and allocation problems with ordinal preferences in non-financial markets such as Stable Roommates, Student-Project Allocations, and more.
 
-For my PhD research, I am supervised by [Professor David Manlove](https://www.dcs.gla.ac.uk/~davidm/) and [Dr Sofiat Olaosebikan](https://www.dcs.gla.ac.uk/~sofiat/).
+During my PhD, I am supervised by [Professor David Manlove](https://www.dcs.gla.ac.uk/~davidm/) and [Dr Sofiat Olaosebikan](https://www.dcs.gla.ac.uk/~sofiat/).
 
 <p>&nbsp;</p>
 
@@ -32,19 +32,13 @@ For my PhD research, I am supervised by [Professor David Manlove](https://www.dc
 ### Teaching
 I have a great passion for teaching and as a [Minerva scholar](https://www.gla.ac.uk/schools/computing/postgraduateresearch/prospectivestudents/minervascholarships/), I get the chance to spend a significant portion (roughly 1/3) of my time with tutoring & marking, (in the future) lecturing & project supervision, and other CS education activities and initiatives within the school. 
 
-<p>&nbsp;</p>
-
 #### 2024
 - [Algorithmics](https://www.gla.ac.uk/coursecatalogue/course/?code=COMPSCI2026) - _TA (Lab Tutor)_
 - [Algorithms and Data Structures 2](https://www.gla.ac.uk/coursecatalogue/course/?code=COMPSCI2007) - _TA (Lab Tutor and Marker)_
 
-<p>&nbsp;</p>
-
 #### 2023
 - [Algorithms and Data Structures 2](https://www.gla.ac.uk/coursecatalogue/course/?code=COMPSCI2007) - _TA (Lab Demonstrator)_
 - [Networks and Operating Systems Essentials 2](https://www.gla.ac.uk/coursecatalogue/course/?code=COMPSCI2024) - _Creating materials and helping out in lab sessions_
-
-<p>&nbsp;</p>
 
 #### 2022
 - [Networks and Operating Systems Essentials 2](https://www.gla.ac.uk/coursecatalogue/course/?code=COMPSCI2024) - _TA (Lab Demonstrator)_
@@ -67,7 +61,7 @@ I have a great passion for teaching and as a [Minerva scholar](https://www.gla.a
 <p>&nbsp;</p>
 
 
-### Other Activities and Responsibilities 
+### Activities and Responsibilities 
 - Repair Cafe Glasgow - _Repair Volunteer_ (2022-)
 - Class Representative - _Computing Science (2019/20, 20/21, 22/23), Mathematics (22/23)_
 - European Space Agency - _Fly a Rocket_ (2020/21)
