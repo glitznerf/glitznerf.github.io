@@ -24,20 +24,21 @@ During my PhD, I am supervised by [Professor David Manlove](https://www.dcs.gla.
 
 
 ### Publications
-- Student-Project Allocation in the Matching Algorithm Toolkit, BSc Thesis, University of Glasgow, 2023.
+- Student-Project Allocation in the Matching Algorithm Toolkit, _BSc Thesis_, University of Glasgow, 2023. [PDF Version](glitznerf.github.io/files/level4project.pdf)
 
 <p>&nbsp;</p>
 
 
 ### Research Talks
-- Stable Cycles and Partitions in the Roommates Problem, Postgraduate Combinatorial Conference (London School of Economics & University College London), 2024
-- Student-Project Allocation in the Matching Algorithm Toolkit, BSc Project Presentation, 2023
+- Structure and Fairness of Stable Partitions, _Scottish Combinatorics Meeting_ (at University of St Andrews), (upcoming)
+- Stable Cycles and Partitions in the Roommates Problem, _Postgraduate Combinatorial Conference_ (at London School of Economics & University College London), 2024
+- Student-Project Allocation in the Matching Algorithm Toolkit, _BSc Project Presentation_, 2023
 
 <p>&nbsp;</p>
 
 
 ### Teaching
-I have a great passion for teaching and as a [Minerva Scholar](https://www.gla.ac.uk/schools/computing/postgraduateresearch/prospectivestudents/minervascholarships/), I get the chance to spend a significant portion of my time with teaching and CS-education related topics and initiatives. 
+I have a great passion for teaching and as a [Minerva Scholar](https://www.gla.ac.uk/schools/computing/postgraduateresearch/prospectivestudents/minervascholarships/), I get the chance to spend a significant portion of my time with teaching and CS-education related topics and initiatives. Some courses I have supported are listed below.
 
 #### 2024
 - [Algorithmics](https://www.gla.ac.uk/coursecatalogue/course/?code=COMPSCI2026) - _TA (Tutorial and Lab Tutor)_
@@ -54,20 +55,20 @@ I have a great passion for teaching and as a [Minerva Scholar](https://www.gla.a
 
 
 ### Academic Experience
-I have held a variety of academic positions, including my current role as Minerva Scholar (entry-level research and teaching position), and previous roles as an SSPS Project Lead (to significantly improve a second-year undergraduate computing course) and general Teaching Assistant (to support labs and tutorials as mentioned above).
+I have held a variety of academic positions, including my current role as _Minerva Scholar_ (entry-level research and teaching position), and previous roles as an _SSPS Project Lead_ (to significantly improve a second-year undergraduate computing course) and general _Teaching Assistant_ (to support labs and tutorials as mentioned above).
 
-In terms of other academic service, I have supported the University of Zurich's Blockchain Center as a voluntary research engineer, represented my undergraduate cohort to both the school of computing and the school of mathematics & statistics, and acted as a Peer Assisted Learning Mentor for new undergraduate computing students.
+In terms of other academic service, I have supported the University of Zurich's Blockchain Center as a _voluntary research engineer_, represented my undergraduate cohort to both the school of computing and the school of mathematics & statistics as a _class rep_, and acted as a _Peer Assisted Learning Mentor_ for new undergraduate computing students.
 
 <p>&nbsp;</p>
 
 
 ### Industry Experience
-Before joining the world of academia full-time, I gained industry experiences as a Software Dev Engineer at Amazon (in workflow and process automation), Consultant for BearingPoint (mainly supporting information security and privacy projects for government and public sector clients), and in IT Dev & Ops at the Global Legal Entity Identifier Foundation. 
+Before joining the world of academia full-time, I gained industry experiences as a _Software Dev Engineer_ at [Amazon](https://www.amazon.co.uk/gp/video/livetv) (in workflow and process automation), _Consultant_ for [BearingPoint](https://www.bearingpoint.com/en-gb/) (mainly supporting information security and privacy projects for government and public sector clients), and in _IT Dev & Ops_ at the [Global Legal Entity Identifier Foundation](https://www.gleif.org/en). 
 
 <p>&nbsp;</p>
 
 
-### Other Activities and Responsibilities
-Before researching theoretical computer science, I thought I would end up in the space industry and was very active in [GU Orbit](https://uk.linkedin.com/company/gu-orbit), a University society for near-space and orbital projects. At the time, I also had the chance to join a European Space Agency [project for rocket science](https://www.esa.int/Education/Fly_A_Rocket). 
+### Other Activities
+I thought I would end up in the space industry and was very active in [GU Orbit](https://uk.linkedin.com/company/gu-orbit), a University society for near-space and orbital projects. At the time, I also had the chance to join a European Space Agency [project for rocket science](https://www.esa.int/Education/Fly_A_Rocket). 
 
 These days, I am probably either repairing things at [Repair Cafe Glasgow](https://repaircafeglasgow.org/), working on a design or diy project, or [exploring the Scottish highlands and islands](scotland).
