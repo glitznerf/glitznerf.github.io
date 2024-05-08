@@ -24,7 +24,7 @@ During my PhD, I am supervised by [Professor David Manlove](https://www.dcs.gla.
 
 
 ### Publications
-- Student-Project Allocation in the Matching Algorithm Toolkit, _BSc Thesis_, University of Glasgow, 2023. [PDF Version](glitznerf.github.io/files/level4project.pdf)
+- Student-Project Allocation in the Matching Algorithm Toolkit, _BSc Thesis_, University of Glasgow, 2023. <a href="glitznerf.github.io/files/level4project.pdf" target="_blank">PDF Version.</a>
 
 <p>&nbsp;</p>
 
