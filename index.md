@@ -16,18 +16,27 @@ During my PhD, I am supervised by [Professor David Manlove](https://www.dcs.gla.
 <p>&nbsp;</p>
 
 
-### Papers
-- **Structural and algorithmic results for stable cycles and partitions in the Roommates problem**, <a href="https://arxiv.org/abs/2406.00437" target="_blank">arXiv Preprint.</a>
-- **Understanding likely unsolvable structures in random Roommates instances** (Working Paper)
+### Working Papers
+
+- **Generalised Stable Partitions in the Fixtures Problem**, with David Manlove.
+- **Understanding Likely Unsolvable Structures in Random Roommates Instances**, with David Manlove.
+
+<p>&nbsp;</p>
+
+
+### Publications
+- **Structural and Algorithmic Results for Stable Cycles and Partitions in the Roommates Problem**, with David Manlove, to appear in Proceedings of [SAGT 2024](https://www.cwi.nl/en/groups/networks-and-optimization/events/sagt-2024/): the 17th International Symposium on Algorithmic Game Theory, 2024. <a href="https://arxiv.org/abs/2406.00437" target="_blank">Full arXiv Preprint.</a>
 - **Student-Project Allocation in the Matching Algorithm Toolkit**, BSc Dissertation, _University of Glasgow_, 2023. <a href="/files/level4project.pdf" target="_blank">PDF Version.</a>
 
 <p>&nbsp;</p>
 
 
-### Research Talks
-- **Structure and Fairness of Stable Partitions**, Scottish Combinatorics Meeting (at _University of St Andrews_), 2024
-- **Stable Cycles and Partitions in the Roommates Problem**, Postgraduate Combinatorial Conference (at _London School of Economics_ & _University College London_), 2024
-- **Student-Project Allocation in the Matching Algorithm Toolkit**, BSc Project Presentation, 2023
+### Conference Talks without Proceedings
+- **MATWA: A Web Toolkit for Matching under Preferences**, with David Manlove, to be presented at [MATCH-UP 2024](https://www.dcs.gla.ac.uk/research/algorithms/MATCHUP2024/): the 7th International Workshop on Matching Under Preferences (at _University of Oxford_), 2024.
+- **Structural and Algorithmic Results for Stable Cycles and Partitions in the Roommates Problem**, with David Manlove, to be presented at [MATCH-UP 2024](https://www.dcs.gla.ac.uk/research/algorithms/MATCHUP2024/): the 7th International Workshop on Matching Under Preferences (at _University of Oxford_), 2024. <a href="https://arxiv.org/abs/2406.00437" target="_blank">Full arXiv Preprint.</a>
+- **Structure and Fairness of Stable Partitions**, based on work with David Manlove, [SCM 2024](https://sites.cs.st-andrews.ac.uk/scm2024/): the Scottish Combinatorics Meeting (at _University of St Andrews_), 2024.
+- **Stable Cycles and Partitions in the Roommates Problem**, based on work with David Manlove, [PCC 2024](https://sites.google.com/view/pcc-2024/home): the 28th Postgraduate Combinatorial Conference (at _London School of Economics_ & _University College London_), 2024.
+- **Student-Project Allocation in the Matching Algorithm Toolkit**, BSc Project Presentation, 2023.
 
 <p>&nbsp;</p>
 
@@ -52,7 +61,7 @@ I have a great passion for teaching and, as a [Minerva Scholar](https://www.gla.
 ### Academic Experience
 I have held a variety of academic positions, including my current role as **Minerva Scholar** (entry-level research and teaching position), and previous roles as an **SSPS Project Lead** (to significantly improve a second-year undergraduate computing course) and general **Teaching Assistant**.
 
-In terms of other academic service, I am in the **Learning & Teaching Committee**, have supported the University of Zurich's Blockchain Center as a voluntary **Research Engineer**, represented my undergraduate cohort to both the school of computing and the school of mathematics as a **Class Rep**, and acted as a **Peer Assisted Learning Mentor** for new undergraduate computing students.
+In terms of other academic service, I am in the **Learning & Teaching Committee**, am **organising** the 29th **Postgraduate Combinatorial Conference** ([PCC 2025](https://sites.google.com/view/pcc2025/home)) in Glasgow, have supported the University of Zurich's Blockchain Center as a voluntary **Research Engineer**, represented my undergraduate cohort to both the school of computing and the school of mathematics as a **Class Rep**, and acted as a **Peer Assisted Learning Mentor** for new undergraduate computing students.
 
 <p>&nbsp;</p>
 
