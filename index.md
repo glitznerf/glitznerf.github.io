@@ -24,18 +24,20 @@ During my PhD, I am supervised by [Professor David Manlove](https://www.dcs.gla.
 <p>&nbsp;</p>
 
 
-### Publications
-- **Structural and Algorithmic Results for Stable Cycles and Partitions in the Roommates Problem**, with David Manlove, to appear in Proceedings of [SAGT 2024](https://www.cwi.nl/en/groups/networks-and-optimization/events/sagt-2024/): the 17th International Symposium on Algorithmic Game Theory, 2024. <a href="https://arxiv.org/abs/2406.00437" target="_blank">Full arXiv Preprint.</a>
+### Papers
+- **Structural and Algorithmic Results for Stable Cycles and Partitions in the Roommates Problem**, with David Manlove, in Proceedings of [SAGT 2024](https://www.cwi.nl/en/groups/networks-and-optimization/events/sagt-2024/): the 17th International Symposium on Algorithmic Game Theory, 2024, volume 15156 of Lecture Notes in Computer Science, Springer, pages 3-20. [Proceedings Version](https://doi.org/10.1007/978-3-031-71033-9_1). The full version of this paper is available as Technical Report no. 2406.00437, Computing Research Repository, Cornell University Library, 2024. [Full Version](https://arxiv.org/abs/2406.00437).
+- **MATWA: A Web Toolkit for Matching under Preferences**, with David Manlove. Technical Report no. 2409.04402, Computing Research Repository, Cornell University Library, 2024. [Full Version](https://arxiv.org/abs/2409.04402).
 - **Student-Project Allocation in the Matching Algorithm Toolkit**, BSc Dissertation, _University of Glasgow_, 2023. <a href="/files/level4project.pdf" target="_blank">PDF Version.</a>
+
 
 <p>&nbsp;</p>
 
 
-### Conference Talks without Proceedings
-- **MATWA: A Web Toolkit for Matching under Preferences**, with David Manlove, to be presented at [MATCH-UP 2024](https://www.dcs.gla.ac.uk/research/algorithms/MATCHUP2024/): the 7th International Workshop on Matching Under Preferences (at _University of Oxford_), 2024.
-- **Structural and Algorithmic Results for Stable Cycles and Partitions in the Roommates Problem**, with David Manlove, to be presented at [MATCH-UP 2024](https://www.dcs.gla.ac.uk/research/algorithms/MATCHUP2024/): the 7th International Workshop on Matching Under Preferences (at _University of Oxford_), 2024. <a href="https://arxiv.org/abs/2406.00437" target="_blank">Full arXiv Preprint.</a>
-- **Structure and Fairness of Stable Partitions**, based on work with David Manlove, [SCM 2024](https://sites.cs.st-andrews.ac.uk/scm2024/): the Scottish Combinatorics Meeting (at _University of St Andrews_), 2024.
-- **Stable Cycles and Partitions in the Roommates Problem**, based on work with David Manlove, [PCC 2024](https://sites.google.com/view/pcc-2024/home): the 28th Postgraduate Combinatorial Conference (at _London School of Economics_ & _University College London_), 2024.
+### Talks without Proceedings
+- **MATWA: A Web Toolkit for Matching under Preferences**, [MATCH-UP 2024](https://www.dcs.gla.ac.uk/research/algorithms/MATCHUP2024/): the 7th International Workshop on Matching Under Preferences (at _University of Oxford_), 2024.
+- **Structural and Algorithmic Results for Stable Cycles and Partitions in the Roommates Problem**, [MATCH-UP 2024](https://www.dcs.gla.ac.uk/research/algorithms/MATCHUP2024/): the 7th International Workshop on Matching Under Preferences (at _University of Oxford_), 2024. 
+- **Structure and Fairness of Stable Partitions**, [SCM 2024](https://sites.cs.st-andrews.ac.uk/scm2024/): the Scottish Combinatorics Meeting (at _University of St Andrews_), 2024.
+- **Stable Cycles and Partitions in the Roommates Problem**, [PCC 2024](https://sites.google.com/view/pcc-2024/home): the 28th Postgraduate Combinatorial Conference (at _London School of Economics_ & _University College London_), 2024.
 - **Student-Project Allocation in the Matching Algorithm Toolkit**, BSc Project Presentation, 2023.
 
 <p>&nbsp;</p>
@@ -54,6 +56,8 @@ I have a great passion for teaching and, as a [Minerva Scholar](https://www.gla.
 
 #### 2022
 - [Networks and Operating Systems Essentials 2](https://www.gla.ac.uk/coursecatalogue/course/?code=COMPSCI2024) - _TA (Lab Demonstrator)_
+
+I also had fun helping out at the [Glasgow Science Festival 2024](https://www.gla.ac.uk/events/sciencefestival/)!
 
 <p>&nbsp;</p>
 
