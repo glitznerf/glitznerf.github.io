@@ -25,15 +25,17 @@ During my PhD, I am supervised by [Professor David Manlove](https://www.dcs.gla.
 
 
 ### Papers
-- **Structural and Algorithmic Results for Stable Cycles and Partitions in the Roommates Problem**, with David Manlove, in Proceedings of [SAGT 2024](https://www.cwi.nl/en/groups/networks-and-optimization/events/sagt-2024/): the 17th International Symposium on Algorithmic Game Theory, 2024, volume 15156 of Lecture Notes in Computer Science, Springer, pages 3-20. [Proceedings Version](https://doi.org/10.1007/978-3-031-71033-9_1). The full version of this paper is available as Technical Report no. 2406.00437, Computing Research Repository, Cornell University Library, 2024. [Full Version](https://arxiv.org/abs/2406.00437).
-- **MATWA: A Web Toolkit for Matching under Preferences**, with David Manlove. Technical Report no. 2409.04402, Computing Research Repository, Cornell University Library, 2024. [Full Version](https://arxiv.org/abs/2409.04402).
-- **Student-Project Allocation in the Matching Algorithm Toolkit**, BSc Dissertation, _University of Glasgow_, 2023. <a href="/files/level4project.pdf" target="_blank">PDF Version.</a>
+- **Structural and Algorithmic Results for Stable Cycles and Partitions in the Roommates Problem**, with David Manlove, in Proceedings of [SAGT 2024](https://www.cwi.nl/en/groups/networks-and-optimization/events/sagt-2024/): the 17th International Symposium on Algorithmic Game Theory, 2024, volume 15156 of Lecture Notes in Computer Science, Springer, pages 3-20 [(link to proceedings version)](https://doi.org/10.1007/978-3-031-71033-9_1). The full version of this paper is available as Technical Report no. 2406.00437, Computing Research Repository, Cornell University Library, 2024 [(link to full version)](https://arxiv.org/abs/2406.00437).
+- **MATWA: A Web Toolkit for Matching under Preferences**, with David Manlove. Technical Report no. 2409.04402, Computing Research Repository, Cornell University Library, 2024 [(link to full version)](https://arxiv.org/abs/2409.04402).
+- **Student-Project Allocation in the Matching Algorithm Toolkit**, BSc Dissertation, _University of Glasgow_, 2023 [(link to full version)](/files/level4project.pdf).
 
 
 <p>&nbsp;</p>
 
 
 ### Talks without Proceedings
+-  **An Update on MATWA**, [FATA](https://www.gla.ac.uk/schools/computing/research/researchsections/fata-section/) Research Section Seminar (at _University of Glasgow_), 2024.
+-  **Stable Partitions in the Roommates Problem**, [FATA](https://www.gla.ac.uk/schools/computing/research/researchsections/fata-section/) Research Section Seminar (at _University of Glasgow_), 2024.
 - **MATWA: A Web Toolkit for Matching under Preferences**, [MATCH-UP 2024](https://www.dcs.gla.ac.uk/research/algorithms/MATCHUP2024/): the 7th International Workshop on Matching Under Preferences (at _University of Oxford_), 2024.
 - **Structural and Algorithmic Results for Stable Cycles and Partitions in the Roommates Problem**, [MATCH-UP 2024](https://www.dcs.gla.ac.uk/research/algorithms/MATCHUP2024/): the 7th International Workshop on Matching Under Preferences (at _University of Oxford_), 2024. 
 - **Structure and Fairness of Stable Partitions**, [SCM 2024](https://sites.cs.st-andrews.ac.uk/scm2024/): the Scottish Combinatorics Meeting (at _University of St Andrews_), 2024.
@@ -47,15 +49,17 @@ During my PhD, I am supervised by [Professor David Manlove](https://www.dcs.gla.
 I have a great passion for teaching and, as a [Minerva Scholar](https://www.gla.ac.uk/schools/computing/postgraduateresearch/prospectivestudents/minervascholarships/), I get the chance to spend a significant portion of my time with teaching and CS-education related topics and initiatives. Some courses I have supported are listed below.
 
 #### 2024
-- [Algorithmics](https://www.gla.ac.uk/coursecatalogue/course/?code=COMPSCI2026) - _TA (Tutorial and Lab Tutor)_
-- [Algorithms and Data Structures 2](https://www.gla.ac.uk/coursecatalogue/course/?code=COMPSCI2007) - _TA (Lab Tutor and Marker)_
+- [Algorithmics 1 (H)](https://www.gla.ac.uk/coursecatalogue/course/?code=COMPSCI4009) - _TA (Tutor)_
+- [Algorithmic Foundations 2](https://www.gla.ac.uk/coursecatalogue/course/?code=COMPSCI2003) - _TA (Tutor)_
+- [Algorithmics (GA)](https://www.gla.ac.uk/coursecatalogue/course/?code=COMPSCI2026) - _TA (Tutor)_
+- [Algorithms and Data Structures 2](https://www.gla.ac.uk/coursecatalogue/course/?code=COMPSCI2007) - _TA (Tutor and Marker)_
 
 #### 2023
-- [Algorithms and Data Structures 2](https://www.gla.ac.uk/coursecatalogue/course/?code=COMPSCI2007) - _TA (Lab Demonstrator)_
+- [Algorithms and Data Structures 2](https://www.gla.ac.uk/coursecatalogue/course/?code=COMPSCI2007) - _TA (Demonstrator)_
 - [Networks and Operating Systems Essentials 2](https://www.gla.ac.uk/coursecatalogue/course/?code=COMPSCI2024) - _Creating materials and helping out in lab sessions_
 
 #### 2022
-- [Networks and Operating Systems Essentials 2](https://www.gla.ac.uk/coursecatalogue/course/?code=COMPSCI2024) - _TA (Lab Demonstrator)_
+- [Networks and Operating Systems Essentials 2](https://www.gla.ac.uk/coursecatalogue/course/?code=COMPSCI2024) - _TA (Demonstrator)_
 
 I also had fun helping out at the [Glasgow Science Festival 2024](https://www.gla.ac.uk/events/sciencefestival/)!
 
@@ -65,13 +69,13 @@ I also had fun helping out at the [Glasgow Science Festival 2024](https://www.gl
 ### Academic Experience
 I have held a variety of academic positions, including my current role as **Minerva Scholar** (entry-level research and teaching position), and previous roles as an **SSPS Project Lead** (to significantly improve a second-year undergraduate computing course) and general **Teaching Assistant**.
 
-In terms of other academic service, I am in the **Learning & Teaching Committee**, am **organising** the 29th **Postgraduate Combinatorial Conference** ([PCC 2025](https://sites.google.com/view/pcc2025/home)) in Glasgow, have supported the University of Zurich's Blockchain Center as a voluntary **Research Engineer**, represented my undergraduate cohort to both the school of computing and the school of mathematics as a **Class Rep**, and acted as a **Peer Assisted Learning Mentor** for new undergraduate computing students.
+In terms of other academic service, I am in the **Learning & Teaching Committee**, am **organising the 29th Postgraduate Combinatorial Conference** ([PCC 2025](https://sites.google.com/view/pcc2025/home)) in Glasgow, have supported the University of Zurich's Blockchain Center as a voluntary **Research Engineer**, represented my undergraduate cohort to both the school of computing and the school of mathematics as a **Class Rep**, and acted as a **Peer Assisted Learning Mentor** for new undergraduate computing students.
 
 <p>&nbsp;</p>
 
 
 ### Industry Experience
-Before joining academia full-time, I gained industry experiences as a **Software Dev Engineer** at [Amazon](https://www.amazon.co.uk/gp/video/livetv) (in workflow and process automation), **Consultant** for [BearingPoint](https://www.bearingpoint.com/en-gb/) (mainly supporting information security and privacy projects for government and public sector clients), and in **IT Dev & Ops** at the [Global Legal Entity Identifier Foundation](https://www.gleif.org/en). 
+Before joining academia full-time, I gained industry experiences as a **Software Dev Engineer** at [Amazon](https://www.amazon.co.uk/gp/video/livetv) (automating workflows and processes), **Consultant** for [BearingPoint](https://www.bearingpoint.com/en-gb/) (supporting information security and privacy projects for government and public sector clients), and in **IT Dev & Ops** (building data processing and visualisation tools for large datasets) at the [Global Legal Entity Identifier Foundation](https://www.gleif.org/en). 
 
 <p>&nbsp;</p>
 
