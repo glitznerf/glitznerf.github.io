@@ -25,8 +25,8 @@ During my PhD, I am supervised by [Professor David Manlove](https://www.dcs.gla.
 
 
 ### Papers
-- **Structural and Algorithmic Results for Stable Cycles and Partitions in the Roommates Problem**, with David Manlove, in Proceedings of [SAGT 2024](https://www.cwi.nl/en/groups/networks-and-optimization/events/sagt-2024/): the 17th International Symposium on Algorithmic Game Theory, 2024, volume 15156 of Lecture Notes in Computer Science, Springer, pages 3-20 [(link to proceedings version)](https://doi.org/10.1007/978-3-031-71033-9_1). The full version of this paper is available as Technical Report no. 2406.00437, Computing Research Repository, Cornell University Library, 2024 [(link to full version)](https://arxiv.org/abs/2406.00437).
-- **MATWA: A Web Toolkit for Matching under Preferences**, with David Manlove. Technical Report no. 2409.04402, Computing Research Repository, Cornell University Library, 2024 [(link to full version)](https://arxiv.org/abs/2409.04402).
+- **MATWA: A Web Toolkit for Matching under Preferences**, with David Manlove, to appear in Proceedings of [**AAAI 2025**](https://aaai.org/conference/aaai/aaai-25/): the 39th Annual AAAI Conference on Artificial Intelligence, 2025. An extended version of this paper is available as Technical Report no. 2409.04402, Computing Research Repository, Cornell University Library, 2024 [(link to extended version)](https://arxiv.org/abs/2409.04402).
+- **Structural and Algorithmic Results for Stable Cycles and Partitions in the Roommates Problem**, with David Manlove, in Proceedings of [**SAGT 2024**](https://www.cwi.nl/en/groups/networks-and-optimization/events/sagt-2024/): the 17th International Symposium on Algorithmic Game Theory, 2024, volume 15156 of Lecture Notes in Computer Science, Springer, pages 3-20 [(link to proceedings version)](https://doi.org/10.1007/978-3-031-71033-9_1). An extended version of this paper is available as Technical Report no. 2406.00437, Computing Research Repository, Cornell University Library, 2024 [(link to extended version)](https://arxiv.org/abs/2406.00437).
 - **Student-Project Allocation in the Matching Algorithm Toolkit**, BSc Dissertation, _University of Glasgow_, 2023 [(link to full version)](/files/level4project.pdf).
 
 
@@ -69,7 +69,7 @@ I also had fun helping out at the [Glasgow Science Festival 2024](https://www.gl
 ### Academic Experience
 I have held a variety of academic positions, including my current role as **Minerva Scholar** (entry-level research and teaching position), and previous roles as an **SSPS Project Lead** (to significantly improve a second-year undergraduate computing course) and general **Teaching Assistant**.
 
-In terms of other academic service, I am in the **Learning & Teaching Committee**, am **organising the 29th Postgraduate Combinatorial Conference** ([PCC 2025](https://sites.google.com/view/pcc2025/home)) in Glasgow, have supported the University of Zurich's Blockchain Center as a voluntary **Research Engineer**, represented my undergraduate cohort to both the school of computing and the school of mathematics as a **Class Rep**, and acted as a **Peer Assisted Learning Mentor** for new undergraduate computing students.
+In terms of other academic service, I am **organising the 29th Postgraduate Combinatorial Conference** ([PCC 2025](https://sites.google.com/view/pcc2025/home)) in Glasgow, a member of the **British Combinatorial Committee** ([BCC](https://www.britishcombinatorics.org.uk/)) and the School's **Learning & Teaching Committee**, have supported the University of Zurich's Blockchain Center as a voluntary **Research Engineer**, represented my undergraduate cohort to both the school of computing and the school of mathematics as a **Class Rep**, and acted as a **Peer Assisted Learning Mentor** for new undergraduate computing students.
 
 <p>&nbsp;</p>
 
