@@ -48,6 +48,10 @@ During my PhD, I am supervised by [Professor David Manlove](https://www.dcs.gla.
 ### Teaching
 I have a great passion for teaching and, as a [Minerva Scholar](https://www.gla.ac.uk/schools/computing/postgraduateresearch/prospectivestudents/minervascholarships/), I get the chance to spend a significant portion of my time with teaching and CS-education related topics and initiatives. Some courses I have supported are listed below.
 
+#### 2025
+- [Quantum Computing (H)](https://www.gla.ac.uk/coursecatalogue/course/?code=COMPSCI4105) - _TA (Tutor)_
+- [Algorithms and Data Structures 2](https://www.gla.ac.uk/coursecatalogue/course/?code=COMPSCI2007) - _TA (Tutor and Marker)_
+
 #### 2024
 - [Algorithmics 1 (H)](https://www.gla.ac.uk/coursecatalogue/course/?code=COMPSCI4009) - _TA (Tutor)_
 - [Algorithmic Foundations 2](https://www.gla.ac.uk/coursecatalogue/course/?code=COMPSCI2003) - _TA (Tutor)_
