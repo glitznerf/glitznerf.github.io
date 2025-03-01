@@ -9,7 +9,7 @@ Hi there, I am a PhD Researcher and Minerva Scholar at the University of Glasgow
 ### Research Interests
 I mainly work on problems in the areas of algorithmics and complexity, computational social choice, algorithmic game theory, combinatorics, and graph theory. Broadly, I am interested in theoretical computer science, fair algorithms, and mechanism design.
 
-My current research is at the intersection of computing, mathematics, and economics, where I study matching and allocation problems with ordinal preferences in non-financial markets such as Stable Roommates, Student-Project Allocations, and more.
+My current research is at the intersection of computing, mathematics, and economics, where I study matching and allocation problems with ordinal preferences in non-financial markets such as Stable Roommates, Student-Project Allocations, and more. Most of my research is theoretical (e.g., proving theorems), but I am also excited about experimental research, applications and tools (fe.g., see [matwa.optimalmatching.com](https://matwa.optimalmatching.com/)).
 
 During my PhD, I am supervised by [Professor David Manlove](https://www.dcs.gla.ac.uk/~davidm/) and [Dr Sofiat Olaosebikan](https://www.dcs.gla.ac.uk/~sofiat/).
 
@@ -19,13 +19,13 @@ During my PhD, I am supervised by [Professor David Manlove](https://www.dcs.gla.
 ### Working Papers
 
 - **Generalised Stable Partitions in the Fixtures Problem**, with David Manlove.
-- **Understanding Likely Unsolvable Structures in Random Roommates Instances**, with David Manlove.
+- **Empirical Perspectives on Unsolvability in Roommates Markets**, with David Manlove.
 
 <p>&nbsp;</p>
 
 
 ### Papers
-- **MATWA: A Web Toolkit for Matching under Preferences**, with David Manlove, to appear in Proceedings of [**AAAI 2025**](https://aaai.org/conference/aaai/aaai-25/): the 39th Annual AAAI Conference on Artificial Intelligence, 2025. An extended version of this paper is available as Technical Report no. 2409.04402, Computing Research Repository, Cornell University Library, 2024 [(link to extended version)](https://arxiv.org/abs/2409.04402).
+- **MATWA: A Web Toolkit for Matching Under Preferences**, with David Manlove, to appear in Proceedings of [**AAAI 2025**](https://aaai.org/conference/aaai/aaai-25/): the 39th Annual AAAI Conference on Artificial Intelligence, 2025. An extended version of this paper is available as Technical Report no. 2409.04402, Computing Research Repository, Cornell University Library, 2024 [(link to extended version)](https://arxiv.org/abs/2409.04402).
 - **Structural and Algorithmic Results for Stable Cycles and Partitions in the Roommates Problem**, with David Manlove, in Proceedings of [**SAGT 2024**](https://www.cwi.nl/en/groups/networks-and-optimization/events/sagt-2024/): the 17th International Symposium on Algorithmic Game Theory, 2024, volume 15156 of Lecture Notes in Computer Science, Springer, pages 3-20 [(link to proceedings version)](https://doi.org/10.1007/978-3-031-71033-9_1). An extended version of this paper is available as Technical Report no. 2406.00437, Computing Research Repository, Cornell University Library, 2024 [(link to extended version)](https://arxiv.org/abs/2406.00437).
 - **Student-Project Allocation in the Matching Algorithm Toolkit**, BSc Dissertation, _University of Glasgow_, 2023 [(link to full version)](/files/level4project.pdf).
 
@@ -34,6 +34,7 @@ During my PhD, I am supervised by [Professor David Manlove](https://www.dcs.gla.
 
 
 ### Talks without Proceedings
+-  **Complexities in Roommates Markets**, [Dagstuhl Seminar 25071]([https://www.gla.ac.uk/schools/computing/research/researchsections/fata-section/](https://www.dagstuhl.de/en/seminars/seminar-calendar/seminar-details/25071)) "Dealing with Complexities in Auction and Matching Market Design", 2025.
 -  **An Update on MATWA**, [FATA](https://www.gla.ac.uk/schools/computing/research/researchsections/fata-section/) Research Section Seminar (at _University of Glasgow_), 2024.
 -  **Stable Partitions in the Roommates Problem**, [FATA](https://www.gla.ac.uk/schools/computing/research/researchsections/fata-section/) Research Section Seminar (at _University of Glasgow_), 2024.
 - **MATWA: A Web Toolkit for Matching under Preferences**, [MATCH-UP 2024](https://www.dcs.gla.ac.uk/research/algorithms/MATCHUP2024/): the 7th International Workshop on Matching Under Preferences (at _University of Oxford_), 2024.
@@ -71,9 +72,9 @@ I also had fun helping out at the [Glasgow Science Festival 2024](https://www.gl
 
 
 ### Academic Experience
-I have held a variety of academic positions, including my current role as **Minerva Scholar** (entry-level research and teaching position), and previous roles as an **SSPS Project Lead** (to significantly improve a second-year undergraduate computing course) and general **Teaching Assistant**.
+I have held a variety of academic positions, including my current role as **Minerva Scholar** (entry-level research and teaching position), and previous roles as an **SSPS Project Lead** (to improve a second-year undergraduate computing course) and general **Teaching Assistant**.
 
-In terms of other academic service, I am **organising the 29th Postgraduate Combinatorial Conference** ([PCC 2025](https://sites.google.com/view/pcc2025/home)) in Glasgow, a member of the **British Combinatorial Committee** ([BCC](https://www.britishcombinatorics.org.uk/)) and the School's **Learning & Teaching Committee**, have supported the University of Zurich's Blockchain Center as a voluntary **Research Engineer**, represented my undergraduate cohort to both the school of computing and the school of mathematics as a **Class Rep**, and acted as a **Peer Assisted Learning Mentor** for new undergraduate computing students.
+In terms of other academic service, I am **organising the 29th Postgraduate Combinatorial Conference** ([PCC 2025](https://sites.google.com/view/pcc2025/home)) in Glasgow, a member of the **British Combinatorial Committee** ([BCC](https://www.britishcombinatorics.org.uk/)) and the School's **Learning & Teaching Committee**, have **reviewed** for the Journal of Discrete Applied Mathematics and SODA. In the past, I have supported the University of Zurich's Blockchain Center as a voluntary **Research Engineer**, represented my undergraduate cohort to both the school of computing and the school of mathematics as a **Class Rep**, and acted as a **Peer Assisted Learning Mentor** for new undergraduate computing students.
 
 <p>&nbsp;</p>
 
