@@ -9,7 +9,7 @@ Hi there, I am a PhD Researcher and Minerva Scholar at the University of Glasgow
 ### Research Interests
 I mainly work on problems in the areas of algorithmics and complexity, computational social choice, algorithmic game theory, combinatorics, and graph theory. Broadly, I am interested in theoretical computer science, fair algorithms, and mechanism design.
 
-My current research is at the intersection of computing, mathematics, and economics, where I study matching and allocation problems with ordinal preferences in non-financial markets such as Stable Roommates, Student-Project Allocations, and more. Most of my research is theoretical (e.g., proving theorems), but I am also excited about experimental research, applications and tools (fe.g., see [matwa.optimalmatching.com](https://matwa.optimalmatching.com/)).
+My current research is at the intersection of computing, mathematics, and economics, where I study matching and allocation problems with ordinal preferences in non-financial markets such as Stable Roommates, Student-Project Allocations, and more. Most of my research is theoretical (e.g., proving theorems), but I am also excited about experimental research, applications and tools (e.g., see [matwa.optimalmatching.com](https://matwa.optimalmatching.com/)).
 
 During my PhD, I am supervised by [Professor David Manlove](https://www.dcs.gla.ac.uk/~davidm/) and [Dr Sofiat Olaosebikan](https://www.dcs.gla.ac.uk/~sofiat/).
 
