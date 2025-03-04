@@ -9,9 +9,7 @@ Hi there, I am a PhD Researcher and Minerva Scholar at the University of Glasgow
 ### Research Interests
 I mainly work on problems in the areas of algorithmics and complexity, computational social choice, algorithmic game theory, combinatorics, and graph theory. Broadly, I am interested in theoretical computer science, fair algorithms, and mechanism design.
 
-My current research is at the intersection of computing, mathematics, and economics, where I study matching and allocation problems with ordinal preferences in non-financial markets such as Stable Roommates, Student-Project Allocations, and more. Most of my research is theoretical (e.g., proving theorems), but I am also excited about experimental research, applications and tools (e.g., see [matwa.optimalmatching.com](https://matwa.optimalmatching.com/)).
-
-During my PhD, I am supervised by [Professor David Manlove](https://www.dcs.gla.ac.uk/~davidm/) and [Dr Sofiat Olaosebikan](https://www.dcs.gla.ac.uk/~sofiat/).
+My current research is at the intersection of computing, mathematics, and economics, where I study matching and allocation problems with ordinal preferences in non-financial markets such as Stable Roommates, Student-Project Allocations, and more. Most of my research is theoretical (e.g., proving theorems), but I am also excited about experimental research, applications and tools (e.g., see [matwa.optimalmatching.com](https://matwa.optimalmatching.com/)). I am lucky to be supervised by [Professor David Manlove](https://www.dcs.gla.ac.uk/~davidm/) and [Dr Sofiat Olaosebikan](https://www.dcs.gla.ac.uk/~sofiat/).
 
 <p>&nbsp;</p>
 
@@ -25,18 +23,17 @@ During my PhD, I am supervised by [Professor David Manlove](https://www.dcs.gla.
 
 
 ### Papers
-- **MATWA: A Web Toolkit for Matching Under Preferences**, with David Manlove, to appear in Proceedings of [**AAAI 2025**](https://aaai.org/conference/aaai/aaai-25/): the 39th Annual AAAI Conference on Artificial Intelligence, 2025. An extended version of this paper is available as Technical Report no. 2409.04402, Computing Research Repository, Cornell University Library, 2024 [(link to extended version)](https://arxiv.org/abs/2409.04402).
-- **Structural and Algorithmic Results for Stable Cycles and Partitions in the Roommates Problem**, with David Manlove, in Proceedings of [**SAGT 2024**](https://www.cwi.nl/en/groups/networks-and-optimization/events/sagt-2024/): the 17th International Symposium on Algorithmic Game Theory, 2024, volume 15156 of Lecture Notes in Computer Science, Springer, pages 3-20 [(link to proceedings version)](https://doi.org/10.1007/978-3-031-71033-9_1). An extended version of this paper is available as Technical Report no. 2406.00437, Computing Research Repository, Cornell University Library, 2024 [(link to extended version)](https://arxiv.org/abs/2406.00437).
+- **MATWA: A Web Toolkit for Matching Under Preferences**, with David Manlove, to appear in Proceedings of [**AAAI 2025**](https://aaai.org/conference/aaai/aaai-25/): the 39th Annual AAAI Conference on Artificial Intelligence, 2025. **Update: Nominated for Best Demo!** An extended version of this paper is available as Technical Report no. 2409.04402, Computing Research Repository, Cornell University Library, 2024 [(link to extended version)](https://arxiv.org/abs/2409.04402) and has also been presented and peer-reviewed at [MATCH-UP 2024](https://www.dcs.gla.ac.uk/research/algorithms/MATCHUP2024/).
+- **Structural and Algorithmic Results for Stable Cycles and Partitions in the Roommates Problem**, with David Manlove, in Proceedings of [**SAGT 2024**](https://www.cwi.nl/en/groups/networks-and-optimization/events/sagt-2024/): the 17th International Symposium on Algorithmic Game Theory, 2024, volume 15156 of Lecture Notes in Computer Science, Springer, pages 3-20 [(link to proceedings version)](https://doi.org/10.1007/978-3-031-71033-9_1). An extended version of this paper is available as Technical Report no. 2406.00437, Computing Research Repository, Cornell University Library, 2024 [(link to extended version)](https://arxiv.org/abs/2406.00437). The paper has also been presented and peer-reviewed at [MATCH-UP 2024](https://www.dcs.gla.ac.uk/research/algorithms/MATCHUP2024/).
 - **Student-Project Allocation in the Matching Algorithm Toolkit**, BSc Dissertation, _University of Glasgow_, 2023 [(link to full version)](/files/level4project.pdf).
-
 
 <p>&nbsp;</p>
 
 
 ### Talks without Proceedings
--  **Complexities in Roommates Markets**, [Dagstuhl Seminar 25071]([https://www.gla.ac.uk/schools/computing/research/researchsections/fata-section/](https://www.dagstuhl.de/en/seminars/seminar-calendar/seminar-details/25071)) "Dealing with Complexities in Auction and Matching Market Design", 2025.
--  **An Update on MATWA**, [FATA](https://www.gla.ac.uk/schools/computing/research/researchsections/fata-section/) Research Section Seminar (at _University of Glasgow_), 2024.
--  **Stable Partitions in the Roommates Problem**, [FATA](https://www.gla.ac.uk/schools/computing/research/researchsections/fata-section/) Research Section Seminar (at _University of Glasgow_), 2024.
+- **Complexities in Roommates Markets**, [Dagstuhl Seminar 25071]([https://www.gla.ac.uk/schools/computing/research/researchsections/fata-section/](https://www.dagstuhl.de/en/seminars/seminar-calendar/seminar-details/25071)) "Dealing with Complexities in Auction and Matching Market Design", 2025.
+- **An Update on MATWA**, [FATA](https://www.gla.ac.uk/schools/computing/research/researchsections/fata-section/) Research Section Seminar (at _University of Glasgow_), 2024.
+- **Stable Partitions in the Roommates Problem**, [FATA](https://www.gla.ac.uk/schools/computing/research/researchsections/fata-section/) Research Section Seminar (at _University of Glasgow_), 2024.
 - **MATWA: A Web Toolkit for Matching under Preferences**, [MATCH-UP 2024](https://www.dcs.gla.ac.uk/research/algorithms/MATCHUP2024/): the 7th International Workshop on Matching Under Preferences (at _University of Oxford_), 2024.
 - **Structural and Algorithmic Results for Stable Cycles and Partitions in the Roommates Problem**, [MATCH-UP 2024](https://www.dcs.gla.ac.uk/research/algorithms/MATCHUP2024/): the 7th International Workshop on Matching Under Preferences (at _University of Oxford_), 2024. 
 - **Structure and Fairness of Stable Partitions**, [SCM 2024](https://sites.cs.st-andrews.ac.uk/scm2024/): the Scottish Combinatorics Meeting (at _University of St Andrews_), 2024.
@@ -49,22 +46,12 @@ During my PhD, I am supervised by [Professor David Manlove](https://www.dcs.gla.
 ### Teaching
 I have a great passion for teaching and, as a [Minerva Scholar](https://www.gla.ac.uk/schools/computing/postgraduateresearch/prospectivestudents/minervascholarships/), I get the chance to spend a significant portion of my time with teaching and CS-education related topics and initiatives. Some courses I have supported are listed below.
 
-#### 2025
-- [Quantum Computing (H)](https://www.gla.ac.uk/coursecatalogue/course/?code=COMPSCI4105) - _TA (Tutor)_
-- [Algorithms and Data Structures 2](https://www.gla.ac.uk/coursecatalogue/course/?code=COMPSCI2007) - _TA (Tutor and Marker)_
-
-#### 2024
-- [Algorithmics 1 (H)](https://www.gla.ac.uk/coursecatalogue/course/?code=COMPSCI4009) - _TA (Tutor)_
-- [Algorithmic Foundations 2](https://www.gla.ac.uk/coursecatalogue/course/?code=COMPSCI2003) - _TA (Tutor)_
-- [Algorithmics (GA)](https://www.gla.ac.uk/coursecatalogue/course/?code=COMPSCI2026) - _TA (Tutor)_
-- [Algorithms and Data Structures 2](https://www.gla.ac.uk/coursecatalogue/course/?code=COMPSCI2007) - _TA (Tutor and Marker)_
-
-#### 2023
-- [Algorithms and Data Structures 2](https://www.gla.ac.uk/coursecatalogue/course/?code=COMPSCI2007) - _TA (Demonstrator)_
-- [Networks and Operating Systems Essentials 2](https://www.gla.ac.uk/coursecatalogue/course/?code=COMPSCI2024) - _Creating materials and helping out in lab sessions_
-
-#### 2022
-- [Networks and Operating Systems Essentials 2](https://www.gla.ac.uk/coursecatalogue/course/?code=COMPSCI2024) - _TA (Demonstrator)_
+- [Quantum Computing (H)](https://www.gla.ac.uk/coursecatalogue/course/?code=COMPSCI4105) - _Tutor_: 2025 (~50 total students)
+- [Algorithms and Data Structures 2](https://www.gla.ac.uk/coursecatalogue/course/?code=COMPSCI2007) - _Tutor and Marker_: 2023, 2024, 2025 (~420 total students)
+- [Algorithmics 1 (H)](https://www.gla.ac.uk/coursecatalogue/course/?code=COMPSCI4009) - _Tutor_: 2024 (~300 total students)
+- [Algorithmic Foundations 2](https://www.gla.ac.uk/coursecatalogue/course/?code=COMPSCI2003) - _Tutor and Marker_: 2024 (~120 total students)
+- [Algorithmics (GA)](https://www.gla.ac.uk/coursecatalogue/course/?code=COMPSCI2026) - _Tutor_: 2024 (~50 total students)
+- [Networks and Operating Systems Essentials 2](https://www.gla.ac.uk/coursecatalogue/course/?code=COMPSCI2024) - _Tutor_: 2022, 2023 (~240 total students)
 
 I also had fun helping out at the [Glasgow Science Festival 2024](https://www.gla.ac.uk/events/sciencefestival/)!
 
@@ -74,7 +61,14 @@ I also had fun helping out at the [Glasgow Science Festival 2024](https://www.gl
 ### Academic Experience
 I have held a variety of academic positions, including my current role as **Minerva Scholar** (entry-level research and teaching position), and previous roles as an **SSPS Project Lead** (to improve a second-year undergraduate computing course) and general **Teaching Assistant**.
 
-In terms of other academic service, I am **organising the 29th Postgraduate Combinatorial Conference** ([PCC 2025](https://sites.google.com/view/pcc2025/home)) in Glasgow, a member of the **British Combinatorial Committee** ([BCC](https://www.britishcombinatorics.org.uk/)) and the School's **Learning & Teaching Committee**, have **reviewed** for the Journal of Discrete Applied Mathematics and SODA. In the past, I have supported the University of Zurich's Blockchain Center as a voluntary **Research Engineer**, represented my undergraduate cohort to both the school of computing and the school of mathematics as a **Class Rep**, and acted as a **Peer Assisted Learning Mentor** for new undergraduate computing students.
+In terms of other academic service, I am **organising the 29th Postgraduate Combinatorial Conference** ([PCC 2025](https://sites.google.com/view/pcc2025/home)) in Glasgow, am a member of the **British Combinatorial Committee** ([BCC](https://www.britishcombinatorics.org.uk/)) and the School's **Learning & Teaching Committee**. In the past, I have supported the [University of Zurich's Blockchain Center](https://www.blockchain.uzh.ch/) as a voluntary **Research Engineer**, represented my undergraduate cohort to the School of Computing Science and the School of Mathematics and Statistics as a **Class Rep**, and acted as a **Peer Assisted Learning Mentor** for new undergraduate computing students.
+
+<p>&nbsp;</p>
+
+
+### Editorial Activities
+PC Chair: [PCC25](https://sites.google.com/view/pcc2025/home) (postgraduate- and abstract-only)
+Reviewer: [JDAM](https://www.sciencedirect.com/journal/discrete-applied-mathematics), [SODA25](https://www.siam.org/conferences-events/siam-conferences/soda25/) (external)
 
 <p>&nbsp;</p>
 
