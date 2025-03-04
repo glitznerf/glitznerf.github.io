@@ -44,14 +44,14 @@ My current research is at the intersection of computing, mathematics, and econom
 
 
 ### Teaching
-I have a great passion for teaching and, as a [Minerva Scholar](https://www.gla.ac.uk/schools/computing/postgraduateresearch/prospectivestudents/minervascholarships/), I get the chance to spend a significant portion of my time with teaching and CS-education related topics and initiatives. Some courses I have supported are listed below.
+I have a great passion for teaching and, as a [Minerva Scholar](https://www.gla.ac.uk/schools/computing/postgraduateresearch/prospectivestudents/minervascholarships/), I get the chance to spend a significant portion of my time with teaching and CS-education related topics and initiatives. Some courses I have supported are listed below (ordered in reverse-chronological order).
 
-- [Quantum Computing (H)](https://www.gla.ac.uk/coursecatalogue/course/?code=COMPSCI4105) - _Tutor_: 2025 (~50 total students)
-- [Algorithms and Data Structures 2](https://www.gla.ac.uk/coursecatalogue/course/?code=COMPSCI2007) - _Tutor and Marker_: 2023, 2024, 2025 (~420 total students)
-- [Algorithmics 1 (H)](https://www.gla.ac.uk/coursecatalogue/course/?code=COMPSCI4009) - _Tutor_: 2024 (~300 total students)
-- [Algorithmic Foundations 2](https://www.gla.ac.uk/coursecatalogue/course/?code=COMPSCI2003) - _Tutor and Marker_: 2024 (~120 total students)
-- [Algorithmics (GA)](https://www.gla.ac.uk/coursecatalogue/course/?code=COMPSCI2026) - _Tutor_: 2024 (~50 total students)
-- [Networks and Operating Systems Essentials 2](https://www.gla.ac.uk/coursecatalogue/course/?code=COMPSCI2024) - _Tutor_: 2022, 2023 (~240 total students)
+- [**Quantum Computing** (H)](https://www.gla.ac.uk/coursecatalogue/course/?code=COMPSCI4105) - _Tutor:_ **2025** (~50 total students)
+- [**Algorithms and Data Structures** 2](https://www.gla.ac.uk/coursecatalogue/course/?code=COMPSCI2007) - _Tutor and Marker:_ **2023, 2024, 2025** (~420 total students)
+- [**Algorithmics** 1 (H)](https://www.gla.ac.uk/coursecatalogue/course/?code=COMPSCI4009) - _Tutor:_ **2024** (~300 total students)
+- [**Algorithmic Foundations** 2](https://www.gla.ac.uk/coursecatalogue/course/?code=COMPSCI2003) - _Tutor and Marker:_ **2024** (~120 total students)
+- [**Algorithmics** (GA)](https://www.gla.ac.uk/coursecatalogue/course/?code=COMPSCI2026) - _Tutor:_ **2024** (~50 total students)
+- [**Networks and Operating Systems Essentials** 2](https://www.gla.ac.uk/coursecatalogue/course/?code=COMPSCI2024) - _Tutor:_ **2022, 2023** (~240 total students)
 
 I also had fun helping out at the [Glasgow Science Festival 2024](https://www.gla.ac.uk/events/sciencefestival/)!
 
@@ -68,6 +68,7 @@ In terms of other academic service, I am **organising the 29th Postgraduate Comb
 
 ### Editorial Activities
 PC Chair: [PCC25](https://sites.google.com/view/pcc2025/home) (postgraduate- and abstract-only)
+
 Reviewer: [JDAM](https://www.sciencedirect.com/journal/discrete-applied-mathematics), [SODA25](https://www.siam.org/conferences-events/siam-conferences/soda25/) (external)
 
 <p>&nbsp;</p>
