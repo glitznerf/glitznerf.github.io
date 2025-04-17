@@ -25,10 +25,12 @@ My current research is at the intersection of computing, mathematics, and econom
 ### Papers
 - **MATWA: A Web Toolkit for Matching Under Preferences**, with David Manlove (_Update: Nominated for Best Demo!_)
   - in Proceedings of [**AAAI 2025**](https://aaai.org/conference/aaai/aaai-25/): the 39th Annual AAAI Conference on Artificial Intelligence, 2025, volume 39 number 28 [(link to proceedings version)](https://doi.org/10.1609/aaai.v39i28.35352);
-  - an extended version of this paper is available as Technical Report no. 2409.04402, Computing Research Repository, Cornell University Library, 2024 [(link to extended version)](https://arxiv.org/abs/2409.04402) and has been presented (and peer-reviewed) at [MATCH-UP 2024](https://www.dcs.gla.ac.uk/research/algorithms/MATCHUP2024/).
+  - an extended version of this paper is available as Technical Report no. 2409.04402, Computing Research Repository, Cornell University Library, 2024 [(link to extended version)](https://arxiv.org/abs/2409.04402);
+  - an earlier version of the paper was presented and peer-reviewed at [MATCH-UP 2024](https://www.dcs.gla.ac.uk/research/algorithms/MATCHUP2024/).
 - **Structural and Algorithmic Results for Stable Cycles and Partitions in the Roommates Problem**, with David Manlove
   - in Proceedings of [**SAGT 2024**](https://www.cwi.nl/en/groups/networks-and-optimization/events/sagt-2024/): the 17th International Symposium on Algorithmic Game Theory, 2024, volume 15156 of Lecture Notes in Computer Science, Springer, pages 3-20 [(link to proceedings version)](https://doi.org/10.1007/978-3-031-71033-9_1);
-  - an extended version of this paper is in submission and available as Technical Report no. 2406.00437, Computing Research Repository, Cornell University Library, 2024 [(link to extended version)](https://arxiv.org/abs/2406.00437)and has been presented (and peer-reviewed) at [MATCH-UP 2024](https://www.dcs.gla.ac.uk/research/algorithms/MATCHUP2024/).
+  - a journal version of this paper is _in submission_ and available as Technical Report no. 2406.00437, Computing Research Repository, Cornell University Library, 2024 [(link to extended version)](https://arxiv.org/abs/2406.00437);
+  - an earlier version of the paper was presented and peer-reviewed at [MATCH-UP 2024](https://www.dcs.gla.ac.uk/research/algorithms/MATCHUP2024/).
 - **Student-Project Allocation in the Matching Algorithm Toolkit**
   - BSc Dissertation, _University of Glasgow_, 2023 [(link to full version)](/files/level4project.pdf).
 
