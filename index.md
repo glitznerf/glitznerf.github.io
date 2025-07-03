@@ -6,24 +6,15 @@ Hi there, I am a PhD student and Minerva Scholar at the University of Glasgow.
 
 <p>&nbsp;</p>
 
-### Research Interests
-I mainly work on problems at the intersection of computing, mathematics, and economics. Most of my research is theoretical (e.g., proving theorems), but I am also excited about experimental research, applications and tools (e.g., see [matwa.optimalmatching.com](https://matwa.optimalmatching.com/)). Broadly, I am interested in theoretical computer science, fair algorithms, and mechanism design. Currently, I focus on matching and allocation problems with ordinal preferences in markets without monetary transfer, such as Stable Roommates, Stable Fixtures and Student-Project Allocation. I am lucky to be supervised by [Professor David Manlove](https://www.dcs.gla.ac.uk/~davidm/) and [Dr Sofiat Olaosebikan](https://www.dcs.gla.ac.uk/~sofiat/).
-
-<p>&nbsp;</p>
-
-
-### In submission
-
-- **Unsolvability and Beyond in Many-To-Many Non-Bipartite Stable Matching**, with David Manlove.
-  - Available as arXiv Technical Report no. 2505.11456, 2025 [(link to preprint)](https://arxiv.org/abs/2505.11456)
-- **Perspectives on Unsolvability in Roommates Markets**, with David Manlove
-  - Available as arXiv Technical Report no. 2505.06717, 2025 [(link to preprint)](https://arxiv.org/abs/2505.06717)
-- **Structural and Algorithmic Results for Stable Cycles and Partitions in the Roommates Problem** (journal version), with David Manlove
-  - Available as arXiv Technical Report no. 2406.00437, 2024 [(link to preprint)](https://arxiv.org/abs/2406.00437)
+### Research interests
+I mainly work on problems at the intersection of computing, mathematics and economics. Most of my research is theoretical (e.g., proving theorems), but I am also excited about experimental research, applications and tools (e.g., see [matwa.optimalmatching.com](https://matwa.optimalmatching.com/)). Currently, I focus on matching and allocation problems with ordinal preferences in markets without monetary transfer, such as Stable Roommates, Stable Fixtures and Student-Project Allocation. I am lucky to be supervised by [Professor David Manlove](https://www.dcs.gla.ac.uk/~davidm/) and [Dr Sofiat Olaosebikan](https://www.dcs.gla.ac.uk/~sofiat/).
 <p>&nbsp;</p>
 
 
 ### Publications
+- **Unsolvability and Beyond in Many-To-Many Non-Bipartite Stable Matching**, with David Manlove.
+  - to appear in Proceedings of [**SAGT 2025**](https://www.bath.ac.uk/events/the-international-symposium-on-algorithmic-game-theory-sagt-2025/): the 18th International Symposium on Algorithmic Game Theory, 2025
+  - an extended version of this paper is available as arXiv Technical Report no. 2505.11456, 2025 [(link to extended version)](https://arxiv.org/abs/2505.11456)
 - **MATWA: A Web Toolkit for Matching Under Preferences**, with David Manlove (_Update: Nominated for Best Demo!_)
   - in Proceedings of [**AAAI 2025**](https://aaai.org/conference/aaai/aaai-25/): the 39th Annual AAAI Conference on Artificial Intelligence, 2025 [(link to proceedings version)](https://doi.org/10.1609/aaai.v39i28.35352)
   - an extended version of this paper is available as arXiv Technical Report no. 2409.04402, 2024 [(link to extended version)](https://arxiv.org/abs/2409.04402)
@@ -36,8 +27,17 @@ I mainly work on problems at the intersection of computing, mathematics, and eco
 
 <p>&nbsp;</p>
 
+### Papers in submission
 
-### Talks without Proceedings
+- **Perspectives on Unsolvability in the Roommates Problem**, with David Manlove
+  - Available as arXiv Technical Report no. 2505.06717, 2025 [(link to preprint)](https://arxiv.org/abs/2505.06717)
+- **Structural and Algorithmic Results for Stable Cycles and Partitions in the Roommates Problem** (journal version), with David Manlove
+  - Available as arXiv Technical Report no. 2406.00437, 2024 [(link to preprint)](https://arxiv.org/abs/2406.00437)
+<p>&nbsp;</p>
+
+
+### Talks without proceedings
+- **Non-Bipartite Matching Under Preference**, [JECCO 2025](https://jecco2025.gitlab.io): the 1st UK Workshop for Junior Researchers in Economics and Computation (at _University of Edinburgh_), 2025.
 - **The Tractability Frontier in Non-Bipartite Stable Matching**, CS+Econ Joint Workshop (at _University of Edinburgh_), 2025.
 - **_b_-matching with Preferences**, [SCM 2025](https://www.dcs.gla.ac.uk/~kitty/scm/): the Scottish Combinatorics Meeting (at _University of Glasgow_), 2025.
 - **Complexities in Roommates Markets**, [Dagstuhl Seminar 25071](https://www.dagstuhl.de/en/seminars/seminar-calendar/seminar-details/25071) "Dealing with Complexities in Auction and Matching Market Design", 2025.
@@ -67,29 +67,22 @@ I also had fun helping out at the [Glasgow Science Festival 2024](https://www.gl
 <p>&nbsp;</p>
 
 
-### Academic Experience
-I have held a variety of academic positions, including my current role as **Minerva Scholar** (entry-level research and teaching position), and previous roles as an **SSPS Project Lead** (to improve a second-year undergraduate computing course) and general **Teaching Assistant**.
+### Academic roles
+I have held a variety of academic positions, including my current role as Minerva Scholar (entry-level research and teaching position), and previous roles as an SSPS Project Lead (to improve a second-year undergraduate computing course) and general Teaching Assistant.
 
-In terms of other academic service, I am **organising the 29th Postgraduate Combinatorial Conference** ([PCC 2025](https://sites.google.com/view/pcc2025/home)) in Glasgow, am a member of the **British Combinatorial Committee** ([BCC](https://www.britishcombinatorics.org.uk/)) and the School's **Learning & Teaching Committee**. In the past, I have supported the [University of Zurich's Blockchain Center](https://www.blockchain.uzh.ch/) as a voluntary **Research Engineer**, represented my undergraduate cohort to the School of Computing Science and the School of Mathematics and Statistics as a **Class Rep**, and acted as a **Peer Assisted Learning Mentor** for new undergraduate computing students.
+In terms of other academic service, I recently organised the 29th Postgraduate Combinatorial Conference ([PCC 2025](https://sites.google.com/view/pcc2025/home)) in Glasgow, am a member of the British Combinatorial Committee ([BCC](https://www.britishcombinatorics.org.uk/)) and the School's Learning & Teaching Committee. In the past, I have supported the [University of Zurich's Blockchain Center](https://www.blockchain.uzh.ch/) as a voluntary Research Engineer, represented my undergraduate cohort to the School of Computing Science and the School of Mathematics and Statistics as a Class Rep and acted as a Peer Assisted Learning Mentor for new undergraduate students.
+
+On the editorial side, I have reviewed for the journals [Discrete Applied Mathematics](https://www.sciencedirect.com/journal/discrete-applied-mathematics) and [Theoretical Economics](https://econtheory.org) and for the [Symposium on Discrete Algorithms 2025](https://www.siam.org/conferences-events/siam-conferences/soda25/). I was also PC Co-Chair for [PCC25](https://sites.google.com/view/pcc2025/home) (abstract only).
+
+<p>&nbsp;</p>
+
+### Industry roles
+Before joining academia full-time, I gained industry experiences as a Software Dev Engineer at [Amazon](https://www.amazon.co.uk/gp/video/livetv) (automating workflows and processes), Consultant for [BearingPoint](https://www.bearingpoint.com/en-gb/) (supporting information security and privacy projects for government and public sector clients), and in IT Dev & Ops (building data processing and visualisation tools for large datasets) at the [Global Legal Entity Identifier Foundation](https://www.gleif.org/en). 
 
 <p>&nbsp;</p>
 
 
-### Editorial Activities
-PC Chair: [PCC25](https://sites.google.com/view/pcc2025/home) (postgraduate- and abstract-only)
+### Other activities
+I thought I would end up in the space industry and was very active in [GU Orbit](https://uk.linkedin.com/company/gu-orbit), a society for near-space and orbital projects. At the time, I also had the chance to join a European Space Agency [project for rocket science](https://www.esa.int/Education/Fly_A_Rocket). 
 
-Reviewer: [Journal of Discrete Applied Mathematics](https://www.sciencedirect.com/journal/discrete-applied-mathematics), [Symposium on Discrete Algorithms 2025](https://www.siam.org/conferences-events/siam-conferences/soda25/)
-
-<p>&nbsp;</p>
-
-
-### Industry Experience
-Before joining academia full-time, I gained industry experiences as a **Software Dev Engineer** at [Amazon](https://www.amazon.co.uk/gp/video/livetv) (automating workflows and processes), **Consultant** for [BearingPoint](https://www.bearingpoint.com/en-gb/) (supporting information security and privacy projects for government and public sector clients), and in **IT Dev & Ops** (building data processing and visualisation tools for large datasets) at the [Global Legal Entity Identifier Foundation](https://www.gleif.org/en). 
-
-<p>&nbsp;</p>
-
-
-### Other Activities
-I thought I would end up in the **space** industry and was very active in [GU Orbit](https://uk.linkedin.com/company/gu-orbit), a University society for near-space and orbital projects. At the time, I also had the chance to join a European Space Agency [project for rocket science](https://www.esa.int/Education/Fly_A_Rocket). 
-
-These days, I am probably either **repairing** things at [Repair Cafe Glasgow](https://repaircafeglasgow.org/), working on a **design** or **diy** project, or [exploring the Scottish **highlands** and **islands**](scotland).
+These days, I am probably either repairing things at [Repair Cafe Glasgow](https://repaircafeglasgow.org/), working on a design or diy project, or [exploring the Scottish highlands and islands](scotland).
