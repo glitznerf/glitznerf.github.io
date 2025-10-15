@@ -12,8 +12,8 @@ I mainly work on problems at the intersection of computing, mathematics and econ
 
 
 ### Publications
-- **Unsolvability and Beyond in Many-To-Many Non-Bipartite Stable Matching**, with David Manlove.
-  - to appear in Proceedings of [**SAGT 2025**](https://www.bath.ac.uk/events/the-international-symposium-on-algorithmic-game-theory-sagt-2025/): the 18th International Symposium on Algorithmic Game Theory, 2025
+- [**Unsolvability and Beyond in Many-to-Many Non-bipartite Stable Matching**](https://doi.org/10.1007/978-3-032-03639-1_15), with David Manlove.
+  - in Proceedings of [**SAGT 2025**](https://www.bath.ac.uk/events/the-international-symposium-on-algorithmic-game-theory-sagt-2025/): the 18th International Symposium on Algorithmic Game Theory, 2025
   - an extended version of this paper is available as [arXiv Technical Report no. 2505.11456, 2025](https://arxiv.org/abs/2505.11456)
 - [**MATWA: A Web Toolkit for Matching Under Preferences**](https://doi.org/10.1609/aaai.v39i28.35352), with David Manlove (_Update: Nominated for Best Demo!_)
   - in Proceedings of [**AAAI 2025**](https://aaai.org/conference/aaai/aaai-25/): the 39th Annual AAAI Conference on Artificial Intelligence, 2025
@@ -62,9 +62,9 @@ I mainly work on problems at the intersection of computing, mathematics and econ
 I have a great passion for teaching and, as a [Minerva Scholar](https://www.gla.ac.uk/schools/computing/postgraduateresearch/prospectivestudents/minervascholarships/), I get the chance to spend a significant portion of my time with teaching and CS-education related topics and initiatives. Some courses I have supported are listed below (ordered in reverse-chronological order).
 
 - [**Algorithmics** 2 (H)](https://www.gla.ac.uk/coursecatalogue/course/?code=COMPSCI4003) - _Guest Lecturer:_ **2025**
+- [**Algorithmics** 1 (H)](https://www.gla.ac.uk/coursecatalogue/course/?code=COMPSCI4009) - _Tutor:_ **2024, 2025**
 - [**Quantum Computing** (H)](https://www.gla.ac.uk/coursecatalogue/course/?code=COMPSCI4105) - _Tutor:_ **2025**
 - [**Algorithms and Data Structures** 2](https://www.gla.ac.uk/coursecatalogue/course/?code=COMPSCI2007) - _Tutor and Marker:_ **2023, 2024, 2025** 
-- [**Algorithmics** 1 (H)](https://www.gla.ac.uk/coursecatalogue/course/?code=COMPSCI4009) - _Tutor:_ **2024**
 - [**Algorithmic Foundations** 2](https://www.gla.ac.uk/coursecatalogue/course/?code=COMPSCI2003) - _Tutor and Marker:_ **2024**
 - [**Algorithmics** (GA)](https://www.gla.ac.uk/coursecatalogue/course/?code=COMPSCI2026) - _Tutor:_ **2024** 
 - [**Networks and Operating Systems Essentials** 2](https://www.gla.ac.uk/coursecatalogue/course/?code=COMPSCI2024) - _Tutor:_ **2022, 2023** 
