@@ -7,37 +7,34 @@ Hi there, I am a PhD student and Minerva Scholar at the University of Glasgow.
 <p>&nbsp;</p>
 
 ### Research interests
-I mainly work on problems at the intersection of computing, mathematics and economics. Most of my research is theoretical (e.g., proving theorems), but I am also excited about experimental research, applications and tools (e.g., see [matwa.optimalmatching.com](https://matwa.optimalmatching.com/)). Currently, I focus on matching and allocation problems involving ordinal preferences in markets without monetary transfer, such as Stable Roommates, Stable Fixtures, Housing Market and Kidney Exchange. I am lucky to be supervised by [Professor David Manlove](https://www.dcs.gla.ac.uk/~davidm/) and [Dr Sofiat Olaosebikan](https://www.dcs.gla.ac.uk/~sofiat/).
+I mainly solve problems at the intersection of computing, mathematics, and economics. Most of my research is theoretical (e.g., proving theorems), but I am also excited about experimental research, applications, and tools (e.g., see [matwa.optimalmatching.com](https://matwa.optimalmatching.com/)). Currently, I focus on matching and allocation problems involving preferences or utilities, such as Stable Roommates, Stable Fixtures, Housing Markets, and Kidney Exchanges. I am lucky to be supervised by [Professor David Manlove](https://www.dcs.gla.ac.uk/~davidm/) and [Dr Sofiat Olaosebikan](https://www.dcs.gla.ac.uk/~sofiat/).
 <p>&nbsp;</p>
 
 
-### Publications
+### Papers and Publications
+
+- **Minimax and Preferential Almost-Stable Matchings**, with David Manlove.
+  - to appear at [**AAMAS 2026**](https://cyprusconferences.org/aamas2026/): the 25th International Conference on Autonomous Agents and Multiagent Systems, 2026
+- **Near-Feasible Stable Matchings: Incentives and Optimality**.
+  - to appear at [**AAMAS 2026**](https://cyprusconferences.org/aamas2026/) (extended abstract): the 25th International Conference on Autonomous Agents and Multiagent Systems, 2026
 - [**Unsolvability and Beyond in Many-to-Many Non-bipartite Stable Matching**](https://doi.org/10.1007/978-3-032-03639-1_15), with David Manlove.
   - in Proceedings of [**SAGT 2025**](https://www.bath.ac.uk/events/the-international-symposium-on-algorithmic-game-theory-sagt-2025/): the 18th International Symposium on Algorithmic Game Theory, 2025
-  - an extended version of this paper is available as [arXiv Technical Report no. 2505.11456, 2025](https://arxiv.org/abs/2505.11456)
+  - extended preprint available as [arXiv Technical Report no. 2505.11456, 2025](https://arxiv.org/abs/2505.11456)
+  - under review at **ACM TEAC**: Transactions on Economics and Computation - SAGT25 Special Issue
 - [**MATWA: A Web Toolkit for Matching Under Preferences**](https://doi.org/10.1609/aaai.v39i28.35352), with David Manlove (_Update: Nominated for Best Demo!_)
   - in Proceedings of [**AAAI 2025**](https://aaai.org/conference/aaai/aaai-25/): the 39th Annual AAAI Conference on Artificial Intelligence, 2025
-  - an extended version of this paper is available as [arXiv Technical Report no. 2409.04402, 2024](https://arxiv.org/abs/2409.04402)
-  - an earlier version of the paper was presented and peer-reviewed at [**MATCH-UP 2024**](https://www.dcs.gla.ac.uk/research/algorithms/MATCHUP2024/)
+  - extended preprint available as [arXiv Technical Report no. 2409.04402, 2024](https://arxiv.org/abs/2409.04402)
+  - earlier version presented and peer-reviewed at [**MATCH-UP 2024**](https://www.dcs.gla.ac.uk/research/algorithms/MATCHUP2024/)
+- [**Perspectives on Unsolvability in the Roommates Problem**](https://arxiv.org/abs/2505.06717), with David Manlove
+  - preprint available as [arXiv Technical Report no. 2505.06717, 2025](https://arxiv.org/abs/2505.06717)
+  - under review at **JXM**: Journal of Experimental Mathematics
 - [**Structural and Algorithmic Results for Stable Cycles and Partitions in the Roommates Problem**](https://doi.org/10.1007/978-3-031-71033-9_1), with David Manlove
   - in Proceedings of [**SAGT 2024**](https://www.cwi.nl/en/groups/networks-and-optimization/events/sagt-2024/): the 17th International Symposium on Algorithmic Game Theory, 2024
-  - an earlier version of the paper was presented and peer-reviewed at [**MATCH-UP 2024**](https://www.dcs.gla.ac.uk/research/algorithms/MATCHUP2024/)
+  - extended preprint available as [arXiv Technical Report no. 2406.00437, 2024](https://arxiv.org/abs/2406.00437)
+  - minor revisions at **ACM TEAC**: Transactions on Economics and Computation - SAGT24 Special Issue
+  - earlier version presented and peer-reviewed at [**MATCH-UP 2024**](https://www.dcs.gla.ac.uk/research/algorithms/MATCHUP2024/)
 - [**Student-Project Allocation in the Matching Algorithm Toolkit**](/files/level4project.pdf)
   - BSc Dissertation, _University of Glasgow_, 2023
-
-<p>&nbsp;</p>
-
-### Journal papers in submission
-
-- **Structural and Algorithmic Results for Stable Cycles and Partitions in the Roommates Problem** (journal version), with David Manlove
-  - minor revisions at ACM Transactions on Economics and Computation (SAGT24 special issue)
-  - preprint available as [arXiv Technical Report no. 2406.00437, 2024](https://arxiv.org/abs/2406.00437)
-- **Perspectives on Unsolvability in the Roommates Problem**, with David Manlove
-  - submitted to journal
-  - preprint available as [arXiv Technical Report no. 2505.06717, 2025](https://arxiv.org/abs/2505.06717)
-- **Unsolvability and Beyond in Many-To-Many Non-Bipartite Stable Matching** (journal version), with David Manlove.
-  - invited to ACM Transactions on Economics and Computation (SAGT25 special issue)
-  - preprint available as [arXiv Technical Report no. 2505.11456, 2025](https://arxiv.org/abs/2505.11456)
 
 <p>&nbsp;</p>
 
