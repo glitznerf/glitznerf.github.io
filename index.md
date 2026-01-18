@@ -31,7 +31,7 @@ I mainly solve problems at the intersection of computing, mathematics, and econo
 - [**Structural and Algorithmic Results for Stable Cycles and Partitions in the Roommates Problem**](https://doi.org/10.1007/978-3-031-71033-9_1), with David Manlove
   - in Proceedings of [**SAGT 2024**](https://www.cwi.nl/en/groups/networks-and-optimization/events/sagt-2024/): the 17th International Symposium on Algorithmic Game Theory, 2024
   - extended preprint available as [arXiv Technical Report no. 2406.00437, 2024](https://arxiv.org/abs/2406.00437)
-  - minor revisions at **ACM TEAC**: Transactions on Economics and Computation - SAGT24 Special Issue
+  - to appear in **ACM TEAC**: Transactions on Economics and Computation - SAGT24 Special Issue (accepted)
   - earlier version presented and peer-reviewed at [**MATCH-UP 2024**](https://www.dcs.gla.ac.uk/research/algorithms/MATCHUP2024/)
 - [**Student-Project Allocation in the Matching Algorithm Toolkit**](/files/level4project.pdf)
   - BSc Dissertation, _University of Glasgow_, 2023
@@ -58,12 +58,13 @@ I mainly solve problems at the intersection of computing, mathematics, and econo
 ### Teaching
 I have a great passion for teaching and, as a [Minerva Scholar](https://www.gla.ac.uk/schools/computing/postgraduateresearch/prospectivestudents/minervascholarships/), I get the chance to spend a significant portion of my time with teaching and CS-education related topics and initiatives. Some courses I have supported are listed below (ordered in reverse-chronological order).
 
+- [**Quantum Computing** (H)](https://www.gla.ac.uk/coursecatalogue/course/?code=COMPSCI4105) - _Tutor:_ **2025, 2026**
+- [**Algorithmics** (GA)](https://www.gla.ac.uk/coursecatalogue/course/?code=COMPSCI2026) - _Tutor:_ **2024, 2026** 
+- [**Algorithms and Data Structures** M](https://www.gla.ac.uk/coursecatalogue/course/?code=COMPSCI5004) - _Tutor:_ **2026** 
 - [**Algorithmics** 2 (H)](https://www.gla.ac.uk/coursecatalogue/course/?code=COMPSCI4003) - _Guest Lecturer:_ **2025**
 - [**Algorithmics** 1 (H)](https://www.gla.ac.uk/coursecatalogue/course/?code=COMPSCI4009) - _Tutor:_ **2024, 2025**
-- [**Quantum Computing** (H)](https://www.gla.ac.uk/coursecatalogue/course/?code=COMPSCI4105) - _Tutor:_ **2025**
 - [**Algorithms and Data Structures** 2](https://www.gla.ac.uk/coursecatalogue/course/?code=COMPSCI2007) - _Tutor and Marker:_ **2023, 2024, 2025** 
 - [**Algorithmic Foundations** 2](https://www.gla.ac.uk/coursecatalogue/course/?code=COMPSCI2003) - _Tutor and Marker:_ **2024**
-- [**Algorithmics** (GA)](https://www.gla.ac.uk/coursecatalogue/course/?code=COMPSCI2026) - _Tutor:_ **2024** 
 - [**Networks and Operating Systems Essentials** 2](https://www.gla.ac.uk/coursecatalogue/course/?code=COMPSCI2024) - _Tutor:_ **2022, 2023** 
 
 I also had fun helping out at the [Glasgow Science Festival 2024](https://www.gla.ac.uk/events/sciencefestival/)!
