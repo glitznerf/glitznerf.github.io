@@ -13,7 +13,7 @@ I mainly solve problems at the intersection of computing, mathematics, and econo
 
 ### Papers and Publications
 
-- **A Minimax Perspective on Almost-Stable Matchings**, with David Manlove.
+- [**A Minimax Perspective on Almost-Stable Matchings**](https://arxiv.org/abs/2601.14195), with David Manlove.
   - preprint available as [arXiv Technical Report no. 2601.14195, 2026](https://arxiv.org/abs/2601.14195)
 - **Minimax and Preferential Almost-Stable Matchings**, with David Manlove.
   - to appear at [**AAMAS 2026**](https://cyprusconferences.org/aamas2026/): the 25th International Conference on Autonomous Agents and Multiagent Systems, 2026
