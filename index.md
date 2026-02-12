@@ -22,8 +22,11 @@ I mainly solve problems at the intersection of computing, mathematics, and econo
 - **Minimax and Preferential Almost-Stable Matchings**, with David Manlove
   - [**AAMAS 2026**](https://cyprusconferences.org/aamas2026/): the 25th International Conference on Autonomous Agents and Multiagent Systems (to appear)
   - Sections 2 and 3 superceded by _A Minimax Perspective on Almost-Stable Matchings_ and _Stable Matching with Deviators and Conformists_, respectively
-- **Near-Feasible Stable Matchings: Incentives and Optimality**
+- [**Near-Feasible Stable Matchings: Incentives and Optimality**](https://arxiv.org/abs/2602.10851)
   - [**AAMAS 2026**](https://cyprusconferences.org/aamas2026/) (extended abstract): the 25th International Conference on Autonomous Agents and Multiagent Systems (to appear)
+  - preprint available as [arXiv Technical Report no. 2602.10851, 2026](https://arxiv.org/abs/2602.10851)
+- **Weakly Popular and Super Popular Matchings**, with Gergely Csáji
+  - under review
 - [**Unsolvability and Beyond in Many-to-Many Non-bipartite Stable Matching**](https://doi.org/10.1007/978-3-032-03639-1_15), with David Manlove
   - [**SAGT 2025**](https://www.bath.ac.uk/events/the-international-symposium-on-algorithmic-game-theory-sagt-2025/): the 18th International Symposium on Algorithmic Game Theory, [doi.org/10.1007/978-3-032-03639-1_15](https://doi.org/10.1007/978-3-032-03639-1_15)
   - extended preprint available as [arXiv Technical Report no. 2505.11456, 2025](https://arxiv.org/abs/2505.11456)
