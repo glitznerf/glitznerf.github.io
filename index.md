@@ -6,50 +6,57 @@ Hi there, I am a PhD student and Minerva Scholar at the University of Glasgow.
 
 <p>&nbsp;</p>
 
-### Research interests
+## Research interests
 I mainly solve problems at the intersection of computing, mathematics, and economics. Most of my research is theoretical (e.g., proving theorems), but I am also excited about experimental research, applications, and tools (e.g., see [matwa.optimalmatching.com](https://matwa.optimalmatching.com/)). Currently, I focus on matching and allocation problems involving preferences or utilities, such as Stable Roommates, Stable Fixtures, Housing Markets, and Kidney Exchanges. I am lucky to be supervised by [Professor David Manlove](https://www.dcs.gla.ac.uk/~davidm/) and [Dr Sofiat Olaosebikan](https://www.dcs.gla.ac.uk/~sofiat/).
 <p>&nbsp;</p>
 
 
-### Papers and Publications
+## Research papers
 
-- [**Stable Matching with Deviators and Conformists**](https://arxiv.org/abs/2601.18573), with David Manlove
-  - preprint available as [arXiv Technical Report no. 2601.18573, 2026](https://arxiv.org/abs/2601.18573)
-  - supercedes Section 3 of _Minimax and Preferential Almost-Stable Matchings_
-- [**A Minimax Perspective on Almost-Stable Matchings**](https://arxiv.org/abs/2601.14195), with David Manlove
-  - preprint available as [arXiv Technical Report no. 2601.14195, 2026](https://arxiv.org/abs/2601.14195)
-  - supercedes Section 2 of _Minimax and Preferential Almost-Stable Matchings_
-- **Minimax and Preferential Almost-Stable Matchings**, with David Manlove
-  - [**AAMAS 2026**](https://cyprusconferences.org/aamas2026/): the 25th International Conference on Autonomous Agents and Multiagent Systems (to appear)
-  - Sections 2 and 3 superceded by _A Minimax Perspective on Almost-Stable Matchings_ and _Stable Matching with Deviators and Conformists_, respectively
-- [**Near-Feasible Stable Matchings: Incentives and Optimality**](https://arxiv.org/abs/2602.10851)
-  - [**AAMAS 2026**](https://cyprusconferences.org/aamas2026/) (extended abstract): the 25th International Conference on Autonomous Agents and Multiagent Systems (to appear)
-  - preprint available as [arXiv Technical Report no. 2602.10851, 2026](https://arxiv.org/abs/2602.10851)
-- **Weakly Popular and Super Popular Matchings**, with Gergely Csáji
-  - under review
-- [**Unsolvability and Beyond in Many-to-Many Non-bipartite Stable Matching**](https://doi.org/10.1007/978-3-032-03639-1_15), with David Manlove
-  - [**SAGT 2025**](https://www.bath.ac.uk/events/the-international-symposium-on-algorithmic-game-theory-sagt-2025/): the 18th International Symposium on Algorithmic Game Theory, [doi.org/10.1007/978-3-032-03639-1_15](https://doi.org/10.1007/978-3-032-03639-1_15)
-  - extended preprint available as [arXiv Technical Report no. 2505.11456, 2025](https://arxiv.org/abs/2505.11456)
-  - under review at **TEAC**: ACM Transactions on Economics and Computation (SAGT25 Special Issue)
-- [**MATWA: A Web Toolkit for Matching Under Preferences**](https://doi.org/10.1609/aaai.v39i28.35352), with David Manlove
-  - [**AAAI 2025**](https://aaai.org/conference/aaai/aaai-25/) (demo): the 39th Annual AAAI Conference on Artificial Intelligence, [doi.org/10.1609/aaai.v39i28.35352](https://doi.org/10.1609/aaai.v39i28.35352)
-  - nominated for best demo at AAAI
-  - extended preprint available as [arXiv Technical Report no. 2409.04402, 2024](https://arxiv.org/abs/2409.04402)
-  - earlier version presented and peer-reviewed at [**MATCH-UP 2024**](https://www.dcs.gla.ac.uk/research/algorithms/MATCHUP2024/)
-- [**Perspectives on Unsolvability in the Roommates Problem**](https://arxiv.org/abs/2505.06717), with David Manlove
-  - preprint available as [arXiv Technical Report no. 2505.06717, 2025](https://arxiv.org/abs/2505.06717)
-  - under review at **JXM**: Journal of Experimental Mathematics
-- [**Structural and Algorithmic Results for Stable Cycles and Partitions in the Roommates Problem**](https://doi.org/10.1145/3789257), with David Manlove
-  - [**SAGT 2024**](https://www.cwi.nl/en/groups/networks-and-optimization/events/sagt-2024/): the 17th International Symposium on Algorithmic Game Theory, [doi.org/10.1007/978-3-031-71033-9_1](https://doi.org/10.1007/978-3-031-71033-9_1)
-  - **TEAC**: ACM Transactions on Economics and Computation (SAGT24 Special Issue), 2026, [doi.org/10.1145/3789257](https://doi.org/10.1145/3789257)
-  - earlier version presented and peer-reviewed at [**MATCH-UP 2024**](https://www.dcs.gla.ac.uk/research/algorithms/MATCHUP2024/)
-- [**Student-Project Allocation in the Matching Algorithm Toolkit**](/files/level4project.pdf)
-  - BSc Dissertation, _University of Glasgow_, 2023
+### Working papers and papers under review
+
+**A Minimax Perspective on Almost-Stable Matchings**, <ins>Frederik Glitzner</ins> and David Manlove. [[arXiv](https://arxiv.org/abs/2601.14195)]
+
+**Near-Feasible Stable Matchings: Incentives and Optimality**, <ins>Frederik Glitzner</ins>, journal version. [[arXiv](https://arxiv.org/abs/2602.10851)]
+
+**Stable Matching with Deviators and Conformists**, <ins>Frederik Glitzner</ins> and David Manlove. [[arXiv](https://arxiv.org/abs/2601.18573)]
+
+**Weakly-Popular and Super-Popular Matchings with Ties and Their Connection to Stable Matchings**, Gergely Csáji and <ins>Frederik Glitzner</ins>. [[arXiv](https://arxiv.org/abs/2310.12269)]
+
+**Unsolvability and Beyond in Many-to-Many Non-bipartite Stable Matching**, <ins>Frederik Glitzner</ins> and David Manlove, journal version. [[arXiv](https://arxiv.org/abs/2505.11456)]
+
+**Perspectives on Unsolvability in the Roommates Problem**, <ins>Frederik Glitzner</ins> and David Manlove. [[arXiv](https://arxiv.org/abs/2505.06717)]
+
+
+### Conference publications
+
+**Minimax and Preferential Almost-Stable Matchings**, <ins>Frederik Glitzner</ins> and David Manlove, In _Proceedings of the 25th International Conference on Autonomous Agents and Multiagent Systems (AAMAS)_, 2026. Forthcoming. [[venue](https://cyprusconferences.org/aamas2026/)]
+
+**Non-Bipartite Stable Matching and Beyond**, <ins>Frederik Glitzner</ins>, In _Proceedings of the 25th International Conference on Autonomous Agents and Multiagent Systems (AAMAS)_, Doctoral Consortium, 2026. Forthcoming. [[venue](https://cyprusconferences.org/aamas2026/)]
+
+**Near-Feasible Stable Matchings: Incentives and Optimality**, <ins>Frederik Glitzner</ins>, In _Proceedings of the 25th International Conference on Autonomous Agents and Multiagent Systems (AAMAS)_, Extended Abstract, 2026. Forthcoming. [[venue](https://cyprusconferences.org/aamas2026/)]
+
+**MATWA: A Web Toolkit for Matching Under Preferences**, <ins>Frederik Glitzner</ins> and David Manlove, In _Proceedings of the 39th Annual AAAI Conference on Artificial Intelligence (AAAI)_, Demo, 2025. Nominated for best AAAI demo. Previously presented at [_MATCH-UP 2024_](https://www.dcs.gla.ac.uk/research/algorithms/MATCHUP2024/). [[tool](https://matwa.optimalmatching.com)] [[paper](https://doi.org/10.1609/aaai.v39i28.35352)] [[extended preprint](https://arxiv.org/abs/2409.04402)] [[venue](https://aaai.org/conference/aaai/aaai-25/)]
+
+**Unsolvability and Beyond in Many-to-Many Non-bipartite Stable Matching**, <ins>Frederik Glitzner</ins> and David Manlove, In _Proceedings of the 18th International Symposium on Algorithmic Game Theory (SAGT)_, 2025. [[paper](https://doi.org/10.1007/978-3-032-03639-1_15)] [[venue](https://www.bath.ac.uk/events/the-international-symposium-on-algorithmic-game-theory-sagt-2025/)]
+
+**Structural and Algorithmic Results for Stable Cycles and Partitions in the Roommates Problem**, <ins>Frederik Glitzner</ins> and David Manlove, In _Proceedings of the 17th International Symposium on Algorithmic Game Theory (SAGT)_, 2024. Previously presented at [_MATCH-UP 2024_](https://www.dcs.gla.ac.uk/research/algorithms/MATCHUP2024/). [[paper](https://doi.org/10.1007/978-3-031-71033-9_1)] [[venue](https://www.cwi.nl/en/groups/networks-and-optimization/events/sagt-2024/)]
+
+
+### Journal publications
+
+**Structural and Algorithmic Results for Stable Cycles and Partitions in the Roommates Problem**, <ins>Frederik Glitzner</ins> and David Manlove. _ACM Transactions on Economics and Computation (TEAC)_, 2026. Special Issue for SAGT 2024. [[paper](https://doi.org/10.1145/3789257)]
+
+### Other
+
+**Student-Project Allocation in the Matching Algorithm Toolkit**, <ins>Frederik Glitzner</ins>. BSc Dissertation, _University of Glasgow_, 2023. [[pdf](/files/level4project.pdf)]
+
 
 <p>&nbsp;</p>
 
 
-### Talks without proceedings
+## Talks
+Presentations not including those of conference papers listed above: 
 - **Non-Bipartite Matching Under Preference**, [JECCO 2025](https://jecco2025.gitlab.io): the 1st UK Workshop for Junior Researchers in Economics and Computation (at _University of Edinburgh_), 2025.
 - **The Tractability Frontier in Non-Bipartite Stable Matching**, CS+Econ Joint Workshop (at _University of Edinburgh_), 2025.
 - **_b_-matching with Preferences**, [SCM 2025](https://www.dcs.gla.ac.uk/~kitty/scm/): the Scottish Combinatorics Meeting (at _University of Glasgow_), 2025.
@@ -65,7 +72,7 @@ I mainly solve problems at the intersection of computing, mathematics, and econo
 <p>&nbsp;</p>
 
 
-### Teaching
+## Teaching
 I have a great passion for teaching and, as a [Minerva Scholar](https://www.gla.ac.uk/schools/computing/postgraduateresearch/prospectivestudents/minervascholarships/), I get the chance to spend a significant portion of my time with teaching and CS-education related topics and initiatives. Some courses I have supported are listed below (ordered in reverse-chronological order).
 
 - [**Quantum Computing** (H)](https://www.gla.ac.uk/coursecatalogue/course/?code=COMPSCI4105) - _Tutor:_ **2025, 2026**
@@ -82,7 +89,7 @@ I also had fun helping out at the [Glasgow Science Festival 2024](https://www.gl
 <p>&nbsp;</p>
 
 
-### Academic roles
+## Academic roles
 I have held a variety of academic positions, including my current role as [Minerva Scholar](https://www.gla.ac.uk/schools/computing/postgraduateresearch/prospectivestudents/minervascholarships/) (entry-level research and teaching position), and previous roles as an [SSPS Project Lead](https://www.gla.ac.uk/myglasgow/students/newsletter/archive/2024/headline_1136086_en.html) (to improve a second-year undergraduate computing course) and general Teaching Assistant.
 
 Currently, I am organising the weekly [FATA Research Section](https://www.gla.ac.uk/schools/computing/research/researchsections/fata-section/) seminars and am a member of the British Combinatorial Committee ([BCC](https://www.britishcombinatorics.org.uk/)) and the School's Learning & Teaching Committee.
@@ -96,13 +103,13 @@ In the past, I have supported the [University of Zurich's Blockchain Center](htt
 
 <p>&nbsp;</p>
 
-### Industry experience
+## Industry experience
 Before joining academia full-time, I worked as a Software Dev Engineer at [Amazon](https://www.amazon.co.uk/gp/video/livetv), Consultant for [BearingPoint](https://www.bearingpoint.com/en-gb/), and in IT Dev & Ops at the [Global Legal Entity Identifier Foundation](https://www.gleif.org/en). 
 
 <p>&nbsp;</p>
 
 
-### Other activities
+## Other activities
 I thought I would end up in the space industry and was very active in [GU Orbit](https://uk.linkedin.com/company/gu-orbit), a society for near-space and orbital projects. At the time, I also had the chance to join a European Space Agency [project for rocket science](https://www.esa.int/Education/Fly_A_Rocket). 
 
 These days, I am probably either repairing things at [Repair Cafe Glasgow](https://repaircafeglasgow.org/), working on a design or diy project, or [exploring the Scottish highlands and islands](scotland).
