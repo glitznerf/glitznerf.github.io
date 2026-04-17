@@ -7,7 +7,7 @@ Hi there, I am a PhD student and Minerva Scholar at the University of Glasgow.
 <p>&nbsp;</p>
 
 ## Research interests
-I mainly solve problems at the intersection of computing, mathematics, and economics. Most of my research is theoretical (e.g., proving theorems), but I am also excited about experimental research, applications, and tools (e.g., see [matwa.optimalmatching.com](https://matwa.optimalmatching.com/)). Currently, I focus on matching and allocation problems involving preferences or utilities, such as Stable Roommates, Stable Fixtures, Housing Markets, and Kidney Exchanges. I am lucky to be supervised by [Professor David Manlove](https://www.dcs.gla.ac.uk/~davidm/) and [Dr Sofiat Olaosebikan](https://www.dcs.gla.ac.uk/~sofiat/).
+I am mainly interested in problems at the intersection of computing, mathematics, and economics. Most of my research is theoretical (e.g., proving theorems), but I am also excited about experimental research, applications, and tools (e.g., see [matwa.optimalmatching.com](https://matwa.optimalmatching.com/)). Currently, I focus on matching and allocation problems involving preferences or utilities, such as Stable Roommates, Stable Fixtures, Housing Markets, and Kidney Exchanges. I am lucky to be supervised by [Professor David Manlove](https://www.dcs.gla.ac.uk/~davidm/) and [Dr Sofiat Olaosebikan](https://www.dcs.gla.ac.uk/~sofiat/).
 <p>&nbsp;</p>
 
 
@@ -15,7 +15,9 @@ I mainly solve problems at the intersection of computing, mathematics, and econo
 
 ### Working papers and papers under review
 
-**A Minimax Perspective on Almost-Stable Matchings**, <ins>Frederik Glitzner</ins> and David Manlove. [[arXiv](https://arxiv.org/abs/2601.14195)]
+**A Minimax Perspective on Almost-Stable Matchings**, <ins>Frederik Glitzner</ins> and David Manlove. Accepted to [_MATCH-UP 2026_](https://matchup2026.crest.science/). [[arXiv](https://arxiv.org/abs/2601.14195)]
+
+**Designing Pairwise-Stable Agent Seating Arrangements**, <ins>Frederik Glitzner</ins>. Accepted to [_MATCH-UP 2026_](https://matchup2026.crest.science/) (poster).
 
 **Near-Feasible Stable Matchings: Incentives and Optimality**, <ins>Frederik Glitzner</ins>, journal version. [[arXiv](https://arxiv.org/abs/2602.10851)]
 
@@ -26,6 +28,7 @@ I mainly solve problems at the intersection of computing, mathematics, and econo
 **Unsolvability and Beyond in Many-to-Many Non-bipartite Stable Matching**, <ins>Frederik Glitzner</ins> and David Manlove, journal version. [[arXiv](https://arxiv.org/abs/2505.11456)]
 
 **Perspectives on Unsolvability in the Roommates Problem**, <ins>Frederik Glitzner</ins> and David Manlove. [[arXiv](https://arxiv.org/abs/2505.06717)]
+
 
 
 ### Conference publications
@@ -45,7 +48,8 @@ I mainly solve problems at the intersection of computing, mathematics, and econo
 
 ### Journal publications
 
-**Structural and Algorithmic Results for Stable Cycles and Partitions in the Roommates Problem**, <ins>Frederik Glitzner</ins> and David Manlove. _ACM Transactions on Economics and Computation (TEAC)_, 2026. Special Issue for SAGT 2024. [[paper](https://doi.org/10.1145/3789257)]
+**Structural and Algorithmic Results for Stable Cycles and Partitions in the Roommates Problem**, <ins>Frederik Glitzner</ins> and David Manlove. To appear in _ACM Transactions on Economics and Computation (TEAC)_, 2026. Special Issue for SAGT 2024. [[paper](https://doi.org/10.1145/3789257)]
+
 
 ### Other
 
@@ -73,12 +77,12 @@ Presentations not including those of conference papers listed above:
 
 
 ## Teaching
-I have a great passion for teaching and, as a [Minerva Scholar](https://www.gla.ac.uk/schools/computing/postgraduateresearch/prospectivestudents/minervascholarships/), I get the chance to spend a significant portion of my time with teaching and CS-education related topics and initiatives. Some courses I have supported are listed below (ordered in reverse-chronological order).
+I have a great passion for teaching and, as a [Minerva Scholar](https://www.gla.ac.uk/schools/computing/postgraduateresearch/prospectivestudents/minervascholarships/), I get the chance to spend a significant portion of my time with teaching and CS-education related topics and initiatives. Some courses I have supported are listed below.
 
+- [**Algorithms and Data Structures** M](https://www.gla.ac.uk/coursecatalogue/course/?code=COMPSCI5004) - _Guest Lecturer and Tutor:_ **2026** 
+- [**Algorithmics** 2 (H)](https://www.gla.ac.uk/coursecatalogue/course/?code=COMPSCI4003) - _Guest Lecturer:_ **2025**
 - [**Quantum Computing** (H)](https://www.gla.ac.uk/coursecatalogue/course/?code=COMPSCI4105) - _Tutor:_ **2025, 2026**
 - [**Algorithmics** (GA)](https://www.gla.ac.uk/coursecatalogue/course/?code=COMPSCI2026) - _Tutor:_ **2024, 2026** 
-- [**Algorithms and Data Structures** M](https://www.gla.ac.uk/coursecatalogue/course/?code=COMPSCI5004) - _Tutor:_ **2026** 
-- [**Algorithmics** 2 (H)](https://www.gla.ac.uk/coursecatalogue/course/?code=COMPSCI4003) - _Guest Lecturer:_ **2025**
 - [**Algorithmics** 1 (H)](https://www.gla.ac.uk/coursecatalogue/course/?code=COMPSCI4009) - _Tutor:_ **2024, 2025**
 - [**Algorithms and Data Structures** 2](https://www.gla.ac.uk/coursecatalogue/course/?code=COMPSCI2007) - _Tutor and Marker:_ **2023, 2024, 2025** 
 - [**Algorithmic Foundations** 2](https://www.gla.ac.uk/coursecatalogue/course/?code=COMPSCI2003) - _Tutor and Marker:_ **2024**
