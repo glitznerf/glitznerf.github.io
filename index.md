@@ -40,11 +40,11 @@ Most of my research is theoretical, but I am also excited about experimental res
 
 ### Conference publications
 
-**Minimax and Preferential Almost-Stable Matchings**, Frederik Glitzner and David Manlove, In _Proceedings of the 25th International Conference on Autonomous Agents and Multiagent Systems (AAMAS)_, 2026. [[paper](https://doi.org/10.65109/PCDE6577) [[venue](https://cyprusconferences.org/aamas2026/)]
+**Minimax and Preferential Almost-Stable Matchings**, Frederik Glitzner and David Manlove, In _Proceedings of the 25th International Conference on Autonomous Agents and Multiagent Systems (AAMAS)_, 2026. [[paper](https://doi.org/10.65109/PCDE6577)] [[venue](https://cyprusconferences.org/aamas2026/)]
 
-**Non-Bipartite Stable Matching and Beyond**, Frederik Glitzner, In _Proceedings of the 25th International Conference on Autonomous Agents and Multiagent Systems (AAMAS)_, Doctoral Consortium, 2026. [[paper](https://doi.org/10.65109/SLTP2592) [[venue](https://cyprusconferences.org/aamas2026/)]
+**Non-Bipartite Stable Matching and Beyond**, Frederik Glitzner, In _Proceedings of the 25th International Conference on Autonomous Agents and Multiagent Systems (AAMAS)_, Doctoral Consortium, 2026. [[paper](https://doi.org/10.65109/SLTP2592)] [[venue](https://cyprusconferences.org/aamas2026/)]
 
-**Near-Feasible Stable Matchings: Incentives and Optimality**, Frederik Glitzner, In _Proceedings of the 25th International Conference on Autonomous Agents and Multiagent Systems (AAMAS)_, Extended Abstract, 2026. [[paper](https://doi.org/10.65109/RZEM3915) [[venue](https://cyprusconferences.org/aamas2026/)]
+**Near-Feasible Stable Matchings: Incentives and Optimality**, Frederik Glitzner, In _Proceedings of the 25th International Conference on Autonomous Agents and Multiagent Systems (AAMAS)_, Extended Abstract, 2026. [[paper](https://doi.org/10.65109/RZEM3915)] [[venue](https://cyprusconferences.org/aamas2026/)]
 
 **MATWA: A Web Toolkit for Matching Under Preferences**, Frederik Glitzner and David Manlove, In _Proceedings of the 39th Annual AAAI Conference on Artificial Intelligence (AAAI)_, Demo, 2025. Nominated for best AAAI demo. Previously presented at [_MATCH-UP 2024_](https://www.dcs.gla.ac.uk/research/algorithms/MATCHUP2024/). [[tool](https://matwa.optimalmatching.com)] [[paper](https://doi.org/10.1609/aaai.v39i28.35352)] [[extended preprint](https://arxiv.org/abs/2409.04402)] [[venue](https://aaai.org/conference/aaai/aaai-25/)]
 
