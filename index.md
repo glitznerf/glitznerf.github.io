@@ -7,7 +7,7 @@ Hi there, I am a PhD student and Minerva Scholar at the University of Glasgow.
 <p>&nbsp;</p>
 
 ## Research interests
-I am mainly interested in problems at the intersection of computing, mathematics, and economics. I tackle questions like "What are good/fair/robust rules and outcomes, and can we design efficient algorithms to achieve them?", currently mostly in matching and allocation problems involving preferences or utilities, such as Stable Roommates, Stable Fixtures, Housing Markets, and Kidney Exchanges. Some broader applicable keywords are _Algorithms & Complexity, Market Design, (Algorithmic) Game Theory,_ and _(Computational) Social Choice._
+I am mainly interested in problems at the intersection of computing, mathematics, and economics. I tackle questions like _What are good/fair/robust rules and outcomes, and can we design efficient algorithms to achieve them?_, currently mostly in matching and allocation settings involving preferences or utilities, such as Stable Roommates, Stable Fixtures, Housing Markets, and Kidney Exchanges. Some broader applicable keywords are _Algorithms & Complexity, Market Design, (Algorithmic) Game Theory,_ and _(Computational) Social Choice._
 
 Most of my research is theoretical, but I am also excited about experimental research, applications, and tools (e.g., see our platform [matwa.optimalmatching.com](https://matwa.optimalmatching.com/)). I am lucky to be supervised by [Professor David Manlove](https://www.dcs.gla.ac.uk/~davidm/) and [Dr Sofiat Olaosebikan](https://www.dcs.gla.ac.uk/~sofiat/).
 <p>&nbsp;</p>
@@ -32,7 +32,7 @@ Most of my research is theoretical, but I am also excited about experimental res
 
 ### Journal publications
 
-**Unsolvability and Beyond in Many-to-Many Non-bipartite Stable Matching** (journal version), Frederik Glitzner and David Manlove, To appear in _ACM Transactions on Economics and Computation (TEAC)_, 2026. Special Issue for SAGT 2025. [[paper](https://doi.org/10.1145/3814616)]
+**Unsolvability and Beyond in Many-to-Many Non-bipartite Stable Matching** (journal version), Frederik Glitzner and David Manlove. To appear in _ACM Transactions on Economics and Computation (TEAC)_, 2026. Special Issue for SAGT 2025. [[paper](https://doi.org/10.1145/3814616)]
 
 **Structural and Algorithmic Results for Stable Cycles and Partitions in the Roommates Problem** (journal version), Frederik Glitzner and David Manlove. To appear in _ACM Transactions on Economics and Computation (TEAC)_, 2026. Special Issue for SAGT 2024. [[paper](https://doi.org/10.1145/3789257)]
 
@@ -40,11 +40,11 @@ Most of my research is theoretical, but I am also excited about experimental res
 
 ### Conference publications
 
-**Minimax and Preferential Almost-Stable Matchings**, Frederik Glitzner and David Manlove, In _Proceedings of the 25th International Conference on Autonomous Agents and Multiagent Systems (AAMAS)_, 2026. Forthcoming. [[venue](https://cyprusconferences.org/aamas2026/)]
+**Minimax and Preferential Almost-Stable Matchings**, Frederik Glitzner and David Manlove, In _Proceedings of the 25th International Conference on Autonomous Agents and Multiagent Systems (AAMAS)_, 2026. [[paper](https://doi.org/10.65109/PCDE6577) [[venue](https://cyprusconferences.org/aamas2026/)]
 
-**Non-Bipartite Stable Matching and Beyond**, Frederik Glitzner, In _Proceedings of the 25th International Conference on Autonomous Agents and Multiagent Systems (AAMAS)_, Doctoral Consortium, 2026. Forthcoming. [[venue](https://cyprusconferences.org/aamas2026/)]
+**Non-Bipartite Stable Matching and Beyond**, Frederik Glitzner, In _Proceedings of the 25th International Conference on Autonomous Agents and Multiagent Systems (AAMAS)_, Doctoral Consortium, 2026. [[paper](https://doi.org/10.65109/SLTP2592) [[venue](https://cyprusconferences.org/aamas2026/)]
 
-**Near-Feasible Stable Matchings: Incentives and Optimality**, Frederik Glitzner, In _Proceedings of the 25th International Conference on Autonomous Agents and Multiagent Systems (AAMAS)_, Extended Abstract, 2026. Forthcoming. [[venue](https://cyprusconferences.org/aamas2026/)]
+**Near-Feasible Stable Matchings: Incentives and Optimality**, Frederik Glitzner, In _Proceedings of the 25th International Conference on Autonomous Agents and Multiagent Systems (AAMAS)_, Extended Abstract, 2026. [[paper](https://doi.org/10.65109/RZEM3915) [[venue](https://cyprusconferences.org/aamas2026/)]
 
 **MATWA: A Web Toolkit for Matching Under Preferences**, Frederik Glitzner and David Manlove, In _Proceedings of the 39th Annual AAAI Conference on Artificial Intelligence (AAAI)_, Demo, 2025. Nominated for best AAAI demo. Previously presented at [_MATCH-UP 2024_](https://www.dcs.gla.ac.uk/research/algorithms/MATCHUP2024/). [[tool](https://matwa.optimalmatching.com)] [[paper](https://doi.org/10.1609/aaai.v39i28.35352)] [[extended preprint](https://arxiv.org/abs/2409.04402)] [[venue](https://aaai.org/conference/aaai/aaai-25/)]
 
@@ -61,8 +61,11 @@ Most of my research is theoretical, but I am also excited about experimental res
 <p>&nbsp;</p>
 
 
-## Talks
-Presentations not including those of conference papers listed above: 
+## Presentations
+Not including those of conference papers listed above: 
+- **Minimax Almost-Stable Matchings**, [JECCO 2026](https://jecco2026.gitlab.io): the 2nd UK Workshop for Junior Researchers in Economics and Computation (at _University of Oxford_), 2026.
+- **Designing Pairwise-Stable Seating Graph Arrangements**, [MATCH-UP 2026](https://matchup2026.crest.science/): the 8th International Workshop on Matching Under Preferences (at _New York University, Paris_), 2026.
+- **A Minimax Perspective on Almost-Stable Matchings**, [MATCH-UP 2026](https://matchup2026.crest.science/): the 8th International Workshop on Matching Under Preferences (at _New York University, Paris_), 2026.
 - **Non-Bipartite Matching Under Preference**, [JECCO 2025](https://jecco2025.gitlab.io): the 1st UK Workshop for Junior Researchers in Economics and Computation (at _University of Edinburgh_), 2025.
 - **The Tractability Frontier in Non-Bipartite Stable Matching**, CS+Econ Joint Workshop (at _University of Edinburgh_), 2025.
 - **_b_-matching with Preferences**, [SCM 2025](https://www.dcs.gla.ac.uk/~kitty/scm/): the Scottish Combinatorics Meeting (at _University of Glasgow_), 2025.
@@ -79,7 +82,7 @@ Presentations not including those of conference papers listed above:
 
 
 ## Teaching
-I have a great passion for teaching and, as a [Minerva Scholar](https://www.gla.ac.uk/schools/computing/postgraduateresearch/prospectivestudents/minervascholarships/), I get the chance to spend a significant portion of my time with teaching and CS-education related topics and initiatives. Some courses I have supported are listed below.
+I have a great passion for teaching and, as a [Minerva Scholar](https://www.gla.ac.uk/schools/computing/postgraduateresearch/prospectivestudents/minervascholarships/), I get the chance to spend a significant portion of my time teaching and on CS-education-related topics and initiatives. Some courses I have supported are listed below.
 
 - [**Algorithms and Data Structures** M](https://www.gla.ac.uk/coursecatalogue/course/?code=COMPSCI5004) - _Guest Lecturer and Tutor:_ **2026** 
 - [**Algorithmics** 2 (H)](https://www.gla.ac.uk/coursecatalogue/course/?code=COMPSCI4003) - _Guest Lecturer:_ **2025**
@@ -100,11 +103,11 @@ I have held a variety of academic positions, including my current role as [Miner
 
 Currently, I am organising the weekly [FATA Research Section](https://www.gla.ac.uk/schools/computing/research/researchsections/fata-section/) seminars and am a member of the British Combinatorial Committee ([BCC](https://www.britishcombinatorics.org.uk/)) and the School's Learning & Teaching Committee.
 
-On the editorial side, I have reviewed for the journals [Discrete Applied Mathematics](https://www.sciencedirect.com/journal/discrete-applied-mathematics) and [Theoretical Economics](https://econtheory.org) and for the events [Symposium On Discrete Algorithms 2025 (SODA)](https://www.siam.org/conferences-events/siam-conferences/soda25/), [45th Foundations of Software Technology and Theoretical Computer Science (FSTTCS)](https://www.fsttcs.org.in/2025/), [European Symposium on Algorithms 2026 (ESA)](https://algo-conference.org/2026/esa/), and the [8th International Workshop on Matching Under Preferences (MATCH-UP)](https://matchup2026.crest.science/).
+On the editorial side, I have reviewed for the following journals: [Transactions on Economics and Computation](https://dl.acm.org/journal/teac), [Discrete Applied Mathematics](https://www.sciencedirect.com/journal/discrete-applied-mathematics), and [Theoretical Economics](https://econtheory.org), and for the events [Symposium On Discrete Algorithms 2025 (SODA)](https://www.siam.org/conferences-events/siam-conferences/soda25/), [45th Foundations of Software Technology and Theoretical Computer Science (FSTTCS)](https://www.fsttcs.org.in/2025/), [European Symposium on Algorithms 2026 (ESA)](https://algo-conference.org/2026/esa/), and the [8th International Workshop on Matching Under Preferences (MATCH-UP)](https://matchup2026.crest.science/).
 
 Recently, we organised the [29th Postgraduate Combinatorial Conference (PCC 2025)](https://sites.google.com/view/pcc2025/home) in Glasgow, which was great fun.
 
-In the past, I have supported the [University of Zurich's Blockchain Center](https://www.blockchain.uzh.ch/) as a voluntary Research Engineer, represented my undergraduate cohort to the School of Computing Science and the School of Mathematics and Statistics as a Class Rep and acted as a Peer Assisted Learning Mentor for new undergraduate students.
+In the past, I have supported the [University of Zurich's Blockchain Center](https://www.blockchain.uzh.ch/) as a voluntary Research Engineer, represented my undergraduate cohort to the School of Computing Science and the School of Mathematics and Statistics as a Class Rep, and acted as a Peer Assisted Learning Mentor for new undergraduate students.
 
 
 <p>&nbsp;</p>
