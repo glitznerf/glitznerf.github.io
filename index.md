@@ -19,7 +19,7 @@ Most of my research is theoretical, but I am also excited about experimental res
 
 **A Minimax Perspective on Almost-Stable Matchings**, Frederik Glitzner and David Manlove. Accepted to [_MATCH-UP 2026_](https://matchup2026.crest.science/). [[arXiv](https://arxiv.org/abs/2601.14195)]
 
-**Designing Pairwise-Stable Agent Seating Arrangements**, Frederik Glitzner. Accepted to [_MATCH-UP 2026_](https://matchup2026.crest.science/) (poster).
+**Designing Pairwise-Stable Agent Seating Arrangements**, Frederik Glitzner. Accepted to [_MATCH-UP 2026_](https://matchup2026.crest.science/) (poster). [[arXiv](https://arxiv.org/abs/2607.27102)]
 
 **Near-Feasible Stable Matchings: Incentives and Optimality**, Frederik Glitzner, journal version. [[arXiv](https://arxiv.org/abs/2602.10851)]
 
