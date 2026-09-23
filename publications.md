@@ -1,4 +1,8 @@
-# Research papers
+--- 
+layout: page
+title: Publications
+permalink: /publications/
+--- 
 
 ## Ongoing and submitted works
 
