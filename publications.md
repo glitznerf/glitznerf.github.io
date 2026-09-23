@@ -4,7 +4,7 @@ title: Publications
 permalink: /publications/
 --- 
 
-## Ongoing and submitted works
+### Ongoing and submitted works
 
 **A Minimax Perspective on Almost-Stable Matchings**, Frederik Glitzner and David Manlove. Accepted to [_MATCH-UP 2026_](https://matchup2026.crest.science/). [[arXiv](https://arxiv.org/abs/2601.14195)]
 
@@ -19,7 +19,7 @@ permalink: /publications/
 **Perspectives on Unsolvability in the Roommates Problem**, Frederik Glitzner and David Manlove. [[arXiv](https://arxiv.org/abs/2505.06717)]
 
 
-## Journal publications
+### Journal publications
 
 **Unsolvability and Beyond in Many-to-Many Non-bipartite Stable Matching** (journal version), Frederik Glitzner and David Manlove. To appear in _ACM Transactions on Economics and Computation (TEAC)_, 2026. Special Issue for SAGT 2025. [[paper](https://doi.org/10.1145/3814616)]
 
@@ -27,7 +27,7 @@ permalink: /publications/
 
 
 
-## Conference publications
+### Conference publications
 
 **Minimax and Preferential Almost-Stable Matchings**, Frederik Glitzner and David Manlove, In _Proceedings of the 25th International Conference on Autonomous Agents and Multiagent Systems (AAMAS)_, 2026. [[paper](https://doi.org/10.65109/PCDE6577)] [[venue](https://cyprusconferences.org/aamas2026/)]
 
@@ -42,6 +42,6 @@ permalink: /publications/
 **Structural and Algorithmic Results for Stable Cycles and Partitions in the Roommates Problem**, Frederik Glitzner and David Manlove, In _Proceedings of the 17th International Symposium on Algorithmic Game Theory (SAGT)_, 2024. Previously presented at [_MATCH-UP 2024_](https://www.dcs.gla.ac.uk/research/algorithms/MATCHUP2024/). [[paper](https://doi.org/10.1007/978-3-031-71033-9_1)] [[venue](https://www.cwi.nl/en/groups/networks-and-optimization/events/sagt-2024/)]
 
 
-## Other
+### Other
 
 **Student-Project Allocation in the Matching Algorithm Toolkit**, Frederik Glitzner. BSc Dissertation, _University of Glasgow_, 2023. [[pdf](/files/level4project.pdf)]
