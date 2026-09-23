@@ -1,8 +1,8 @@
 --- 
 layout: page
+title: Talks
+permalink: /talks/
 --- 
-
-# Talks and presentations
 
 ## Conferences
 - **Minimax and Preferential Almost-Stable Matchings**, [AAMAS 2026](https://cyprusconferences.org/aamas2026/): the 25th International Conference on Autonomous Agents and Multiagent Systems (in _Paphos, Cyprus_).
